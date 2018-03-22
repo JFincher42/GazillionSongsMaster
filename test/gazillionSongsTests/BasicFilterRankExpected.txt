@@ -1,0 +1,118 @@
+1991	1	Bryan Adams	(Everything I Do) I Do It For You
+1924	1	Wendell Hall	It Ain't Gonna Rain No Mo'
+1953	1	Les Paul & Mary Ford	Vaya Con Dios (May God Be With You)
+1978	1	Bee Gees	Night Fever
+2003	1	OutKast	Hey Ya!
+1902	1	Len Spencer	Arkansaw Traveler (new version)
+1968	1	Beatles, The	Hey Jude
+1948	1	Dinah Shore	Buttons and Bows
+1894	1	Edward M. Favor	Say Au Revoir, but Not Goodbye
+1921	1	Paul Whiteman & His Orchestra	Wang Wang Blues
+1950	1	Patti Page	The Tennessee Waltz
+1896	1	Dan Quinn	A Hot Time in the Old Town
+1905	1	Arthur Collins	The Preacher and the Bear
+1922	1	Al Jolson	April Showers
+1943	1	Harry James & His Orchestra	I've Heard That Song Before
+1999	1	Santana	Smooth
+1892	1	Len Spencer	Ta-Ra-Ra-Boom Der E
+1998	1	Brandy & Monica	The Boy Is Mine
+1945	1	Andrews Sisters	Rum and Coca-Cola
+1962	1	Ray Charles	I Can't Stop Loving You
+1920	1	Ben Selvin & His Orchestra	Dardanella
+1931	1	Don Azpiazu & His Havana Casino Orchestra	The Peanut Vendor
+1895	1	Dan Quinn	The Band Played On
+1954	1	Kitty Kallen	Little Things Mean A Lot
+2002	1	Eminem	Lose Yourself
+1940	1	Artie Shaw & His Orchestra	Frenesi
+1951	1	Johnnie Ray & Four Lads	Cry
+1897	1	George J. Gaskin	On the Banks of the Wabash
+1990	1	Stevie B	Because I Love You (The Postman Song)
+1972	1	Roberta Flack	The First Time Ever I Saw Your Face
+1981	1	Olivia Newton-John	Physical
+1975	1	Captain and Tennille	Love Will Keep Us Together
+1933	1	George Olsen & His Orchestra	The Last Round-Up
+1995	1	Mariah Carey	One Sweet Day
+1988	1	Steve Winwood	Roll With It
+1937	1	Bing Crosby	Sweet Leilani
+1923	1	Paul Whiteman & His Orchestra	Parade of the Wooden Soldiers
+1946	1	Ink Spots	The Gypsy
+1939	1	Larry Clinton & His Orchestra	Deep Purple
+1971	1	Three Dog Night	Joy To The World
+1914	1	Henry Burr	The Song That Stole My Heart Away
+1932	1	Ted Lewis & His Band	In A Shanty In Old Shanty Town
+2000	1	Destiny's Child	Independent Women Part I
+1927	1	Gene Austin	My Blue Heaven
+1985	1	Lionel Richie	Say You, Say Me
+1958	1	Danny & The Juniors	At The Hop
+2007	1	Red Hot Chili Peppers	Snow ((Hey Oh))
+2005	1	Mariah Carey	We Belong Together
+1912	1	American Quartet	Moonlight Bay
+1890	1	U.S. Marine Band	Semper Fidelis
+1979	1	Knack, The	My Sharona
+1907	1	Byron G. Harlan	School Days (When We Were a Couple of Kids)
+1910	1	American Quartet & Billy Murray	Casey Jones
+1903	1	Haydn Quartet	In the Good Old Summer Time
+1967	1	Lulu	To Sir With Love
+1938	1	Ella Fitzgerald (Chick Webb Orchestra)	A-Tisket, A-Tasket
+1936	1	Bing Crosby	Pennies from Heaven
+1926	1	Paul Whiteman & His Orchestra	Valencia
+1944	1	Bing Crosby	Swinging On A Star
+1987	1	George Michael	Faith
+1949	1	Vaughn Monroe & His Orchestra	Riders in the Sky (A Cowboy Legend)
+1929	1	Nick Lucas	Tip Toe Through the Tulips
+1980	1	Kenny Rogers	Lady
+1935	1	Fred Astaire	Cheek To Cheek
+1913	1	Chauncey Olcott	When Irish Eyes Are Smiling
+2006	1	Beyonce	Irreplaceable
+1977	1	Debby Boone	You Light Up My Life
+1970	1	Simon and Garfunkel	Bridge Over Troubled Water
+1915	1	John McCormack	It's a Long, Long Way to Tipperary
+1917	1	American Quartet	Over There
+1963	1	Jimmy Gilmer	Sugar Shack
+1983	1	Police, The	Every Breath You Take
+1909	1	Haydn Quartet	Put on Your Old Gray Bonnet
+1992	1	Whitney Houston	I Will Always Love You
+1957	1	Elvis Presley	All Shook Up
+2004	1	Usher	Yeah!
+1974	1	Barbra Streisand	The Way We Were
+1904	1	Haydn Quartet	Sweet Adeline (You're the Flower of My Heart)
+1899	1	Arthur Collins	I'd Leave My Happy Home for You
+1934	1	Bing Crosby	June In January
+1941	1	Jimmy Dorsey & His Orchestra (Vocal Bob Eberle & Helen O'connell)	Amapola
+1973	1	Roberta Flack	Killing Me Softly With His Song
+1976	1	Rod Stewart	Tonight's The Night (Gonna Be Alright)
+1898	1	George J. Gaskin	My Old New Hampshire Home
+1947	1	Francis Craig & His Orchestra	Near You
+1996	1	Los Del Rio	Macarena (Bayside Boys Mix)
+1891	1	George Washington Johnson	The Laughing Song
+2001	1	Janet	All For You
+1959	1	Bobby Darin	Mack The Knife
+1901	1	Albert Campbell	Ma Blushin' Rosie
+1961	1	Bobby Lewis	Tossin' And Turnin'
+1955	1	Perez Prado and His Orchestra	Cherry Pink And Apple Blossom White
+1982	1	Joan Jett & The Blackhearts	I Love Rock N Roll
+1893	1	George J. Gaskin	After the Ball
+1900	1	George J. Gaskin	When You Were Sweet Sixteen
+1906	1	Billy Murray	The Grand Old Rag
+1966	1	Monkees, The	I'm A Believer
+1965	1	Rolling Stones, The	(I Can't Get No) Satisfaction
+1964	1	Beatles, The	I Want To Hold Your Hand
+1989	1	Phil Collins	Another Day In Paradise
+1952	1	Jo Stafford	You Belong To Me
+1918	1	Henry Burr	Just a Baby's Prayer at Twilight (For Her Daddy Over There)
+1997	1	Elton John	Candle In The Wind 1997
+1984	1	Madonna	Like A Virgin
+1928	1	Al Jolson	Sonny Boy
+1993	1	Mariah Carey	Dreamlover
+1969	1	5th Dimension, The	Aquarius/Let The Sunshine In (The Flesh Failures)
+1925	1	Gene Austin	Yes Sir! That's My Baby
+1960	1	Percy Faith	The Theme From A Summer Place
+1956	1	Elvis Presley	Don't Be Cruel
+1911	1	Arthur Collins & Byron Harlan	Alexander's Ragtime Band
+1986	1	Dionne & Friends	That's What Friends Are For
+1930	1	Rudy Vallee & His Connecticut Yankees	Stein Song (University of Maine)
+1942	1	Bing Crosby	White Christmas
+1919	1	Henry Burr & Albert Campbell	Till We Meet Again
+1908	1	Haydn Quartet with Harry MacDonough	Take Me Out to the Ball Game
+1916	1	Henry Burr	M-O-T-H-E-R (A Word That Means the World to Me)
+1994	1	Boyz II Men	I'll Make Love To You

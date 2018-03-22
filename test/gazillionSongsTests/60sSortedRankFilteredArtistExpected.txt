@@ -1,0 +1,198 @@
+1960	7	Johnny Preston	Running Bear
+1968	12	John Fred and His Playboy Band	Judy In Disguise (With Glasses)
+1969	20	Johnny Cash	A Boy Named Sue
+1966	21	Johnny Rivers	Poor Side Of Town
+1964	28	Johnny Rivers	Memphis
+1960	29	Johnny Tillotson	Poetry In Motion
+1960	34	Johnny Horton	Sink The Bismarck
+1967	36	Johnny Rivers	Baby I Need Your Lovin'
+1962	39	Johnny Tillotson	It Keeps Right On A-Hurtin'
+1960	41	Johnny Horton	North To Alaska
+1966	46	Johnny Rivers	Secret Agent Man
+1968	49	Johnnie Taylor	Who's Making Love
+1968	51	Johnny Nash	Hold Me Tight
+1963	57	Johnny Thunder	Loop De Loop
+1960	61	Johnny Preston	Cradle Of Love
+1962	65	Johnny Mathis	Gina
+1965	68	Johnny Rivers	Seventh Son
+1967	76	Fantastic Johnny C, The	Boogaloo Down Broadway
+1960	77	Johnny Burnette	You're Sixteen
+1964	79	Johnny Tillotson	Talk Back Trembling Lips
+1961	82	Johnny Tillotson	Without You
+1962	83	Johnny Crawford	Cindy's Birthday
+1960	88	Marv Johnson	I Love The Way You Love
+1960	91	Marv Johnson	You Got What It Takes
+1960	95	Johnny Burnette	Dreamin'
+1964	96	Johnny Rivers	Mountain Of Love
+1963	96	Johnny Mathis	What Will Mary Say
+1960	105	Little Willie John	Sleep
+1967	106	Johnny Rivers	The Tracks Of My Tears
+1960	112	Johnny Preston	Feel So Fine
+1960	117	Johnny and the Hurricanes	Beatnik Fly
+1968	118	Johnny Rivers	Summer Rain
+1962	120	Johnny Crawford	Rumors
+1964	126	Johnny Rivers	Maybelline
+1962	136	Johnny Crawford	Your Nose Is Gonna Grow
+1961	145	Johnny Burnette	Little Boy Sad
+1960	147	Marv Johnson	(You've Got To) Move Two Mountains
+1963	148	Johnny Cymbal	Mr. Bass Man
+1963	151	Johnny Cash	Ring Of Fire
+1969	153	Johnnie Taylor	Take Care Of Your Homework
+1961	154	Johnny Burnette	God, Country And My Baby
+1962	157	Johnny Tillotson	Send Me The Pillow You Dream On
+1963	162	Johnny Tillotson	You Can Never Stop Me Loving You
+1961	163	Johnny Maestro	Model Girl
+1963	168	Little Johnny Taylor	Part Time Love
+1960	177	Johnny Mathis	Starbright
+1960	183	Johnny Bond	Hot Rod Lincoln
+1966	185	Johnny Rivers	(I Washed My Hands In) Muddy Water (Live)
+1965	185	Johnny Rivers	Midnight Special
+1960	194	Johnny Ferguson	Angela Jones
+1961	201	Johnny Tillotson	Jimmy's Girl
+1969	201	Johnny Adams	Reconsider Me
+1963	203	Johnny Tillotson	Out Of My Mind
+1962	210	Johnny Tillotson	I Can't Help It (If I'm Still In Love With You)
+1968	223	Johnny Cash	Folsom Prison Blues (Live)
+1963	237	Johnny Crawford	Proud
+1968	237	Fantastic Johnny C, The	Hitch It To The Horse
+1965	239	Johnny Rivers	Where Have All The Flowers Gone
+1964	240	Johnny Tillotson	She Understands Me
+1963	241	Johnny Mathis	Every Step Of The Way
+1969	248	Johnnie Taylor	Testify (I Wonna)
+1961	252	John D. Loudermilk	Language Of Love
+1961	258	Johnny Maestro	What A Surprise
+1960	262	Little Willie John	Heartbreak (It's Hurtin' Me)
+1962	268	Johnny Tillotson	Dreamy Eyes
+1964	270	Johnny Cash	Understand Your Man
+1960	277	Johnny Tillotson	Why Do I Love You So
+1964	279	Johnny Tillotson	I Rise, I Fall
+1969	282	Johnny Rivers	Muddy River
+1964	285	Johnny Tillotson	Worried Guy
+1969	289	Johnny Cash	Daddy Sang Bass
+1965	297	Johnny Tillotson	Heartaches By The Number
+1966	303	Johnny Rivers	Under Your Spell Again
+1966	305	Johnny Sea	Day For Decision
+1960	306	Johnny Mathis	My Love For You
+1963	306	Johnny Cash	The Matador
+1962	309	Johnny Crawford	Patti Ann
+1960	317	Johnny and the Hurricanes	Down Yonder
+1960	318	Santo and Johnny	Caravan
+1960	319	Little Willie John	Walk Slow
+1968	320	Robert John	If You Don't Want My Love
+1960	321	Santo and Johnny	Twistin' Bells
+1968	321	Johnny Rivers	Look To Your Soul
+1969	324	Johnnie Taylor	I Could Never Be President
+1965	334	Johnny Bond	10 Little Bottles
+1964	335	Johnny Tillotson	Worry
+1969	338	Johnny Cash	Blistered
+1963	339	Johnny Tillotson	Funny How Time Slips Away
+1960	358	Johnny Tillotson	Earth Angel
+1964	363	Lou Johnson	(There's) Always Something There To Remind Me
+1966	363	Johnny Cash	The One On The Right Is On The Left
+1969	366	Johnny Rivers	These Are Not My People
+1960	370	Johnny and the Hurricanes	Rocking Goose
+1968	370	Fantastic Johnny C, The	Got What You Need
+1961	374	Johnny Horton	Sleepy-Eyed John
+1968	379	John Fred and His Playboys	Hey Hey Bunny
+1962	381	John Lee Hooker	Boom Boom
+1963	381	Johnny Cymbal	Teenage Heaven
+1960	382	Marv Johnson	All The Love I've Got
+1960	383	Johnny Tillotson	Pledging My Love
+1965	384	Johnny Tillotson	Angel
+1960	384	Little Willie John	A Cottage For Sale
+1969	385	Johnny Nash	You Got Soul
+1964	391	Johnny Mathis	Bye Bye Barbara
+1960	392	Johnny Mathis	How To Handle A Woman
+1963	393	Johnny Mathis	Come Back
+1969	395	Johnny Cash	Get Rhythm
+1961	397	Johnny Maestro	Mr. Happiness
+1962	400	Johnnie Morisette	Meet Me At The Twistin' Place
+1968	403	Johnny Rivers	Right Relations
+1961	404	Johnny Burnette	Big Big World
+1961	405	Marv Johnson	Happy Days
+1960	411	Johnny Horton	Johnny Freedom
+1962	414	John D. Loudermilk	Road Hog
+1964	416	Johnny Cash	It Ain't Me Babe
+1961	418	Little Willie John	Leave My Kitten Alone
+1964	420	Santo and Johnny	I'll Remember (In The Still Of The Night)
+1963	421	Johnny Beecher	Sax Fifth Avenue
+1961	425	Marv Johnson	Merry-Go-Round
+1961	426	Little Willie John	The Very Thought Of You
+1965	436	Lou Johnson	A Time To Love-A Time To Cry (Petie Fleur)
+1964	438	Johnny Mathis	Listen Lonely Girl
+1960	438	Marv Johnson	Ain't Gonna Be That Way
+1963	439	Johnny Mathis	Your Teenage Dreams
+1962	454	John D. Loudermilk	Thou Shalt Not Steal
+1963	457	Johnny Crawford	Cindy's Gonna Cry
+1969	457	John and Anne Ryder	I Still Believe In Tomorrow
+1960	458	Johnny Mathis	Maria
+1963	465	Lou Johnson	Reach Out For Me
+1960	466	Johnny Cash	Second Honeymoon
+1961	467	Johnny Crawford	Daydreams
+1960	471	Johnny Otis Show	Mumblin' Mosie
+1961	473	Little Willie John	(I've Got) Spring Fever
+1962	479	Johnny Gibson	Midnight
+1969	482	John Stewart	Armstrong
+1965	483	Johnny Thunder	Everybody Do The Sloopy
+1963	486	Johnny Cymbal	Dum Dum Dee Dum
+1969	487	Johnny Cash	See Ruby Fall
+1961	487	Johnny Preston	Leave My Kitten Alone
+1965	502	Johnny Tillotson	Our World
+1967	506	John Roberts	Sockin' 1-2-3-4
+1960	509	Johnny Cash	Straight A's In Love
+1965	512	John Barry and His Orchestra	Goldfinger
+1960	512	Johnny Cash	Down The Street To 301
+1962	512	John D. Loudermilk	Callin' Doctor Casey
+1961	514	Ella Johnson	I Don't Want Nobody (To Have My Love But You)
+1963	521	Johnny Mathis	Sooner Or Later
+1969	524	John Mayall	Don't Waste My Time
+1962	525	Johnny Mathis	Marianna
+1960	528	Johnnie and Joe	Over The Mountain, Across The Sea
+1964	529	Little Johnny Taylor	Since I Found A New Love
+1969	532	John Wesley Ryles	Kay
+1965	535	Johnny Rivers	Cupid
+1968	536	Johnny Adams	Release Me
+1969	540	John Sebastian	She's A Lady
+1962	541	Johnny Mathis	Maria
+1960	548	Johnny and the Hurricanes	You Are My Sunshine
+1961	548	Johnny Cash	Tennessee Flat-Top Box
+1960	552	Johnny Cash	Honky-Tonk Girl
+1962	555	Johnny Tillotson	I'm So Lonesome I Could Cry
+1963	556	Johnny Mathis	I'll Search My Heart
+1965	558	Johnny Cash	Orange Blossom Special
+1966	561	Johnny & The Expressions	Something I Want To Tell You
+1966	564	Johnny Lytle	The Loop
+1969	568	Johnny Rivers	One Woman
+1961	569	Johnny and the Hurricanes	Ja-Da
+1968	570	Fantastic Johnny C, The	(She's) Some Kind Of Wonderful
+1969	571	Johnny Adams	I Can't Be All Bad
+1961	577	Little Willie John	Take My Love (I Want To Give It All To You)
+1968	581	Long John Baldry	Let The Heartaches Begin
+1964	582	Johnny Mathis	Taste Of Tears
+1960	584	Johnny and the Hurricanes	Revival
+1965	587	Johnny Tillotson	Then I'll Count Again
+1964	592	John Gary	Soon I'll Wed My Love
+1961	594	Johnny Mathis	Wasn't The Summer Short
+1968	595	Johnny Cash	Rosanna's Going Wild
+1965	597	Johnny Nash	Let's Move And Groove (Together)
+1961	599	Santo and Johnny	Hop Scotch
+1968	600	John W. Anderson Presents KaSandra	Don't Pat Me On The Back And Call Me Brother
+1960	600	Little Willie John	Let Them Talk
+1962	604	Johnny Cash	Bonanza
+1962	621	Johnny Horton	Honky-Tonk Man
+1961	626	Little Willie John	Now You Know
+1967	627	Johnny Mann Singers	Up-Up And Away
+1961	628	Johnny Cash	Oh Lonesome Me
+1963	629	Johnny Caswell	At The Shore
+1969	632	Johnny Mathis	Love Theme From Romeo And Juliet (A Time For Us)
+1963	641	Johnnie Taylor	Baby, We've Got Love
+1962	649	Johnny Mathis	Sweet Thursday
+1964	652	Johnny Crawford	Judy Loves Me
+1961	661	Johnny Preston	Free Me
+1966	677	Mable John	Your Good Thing (Is About To End)
+1967	679	Syl Johnson	Different Strokes
+1967	680	Johnnie Taylor	Somebody's Sleeping In My Bed
+1966	685	Johnny Cash	Everybody Loves A Nut
+1967	698	Johnny Thunder	Make Love To Me
+1965	701	Johnny Mathis	On A Clear Day You Can See Forever
+1967	702	Syl Johnson	Come On Sock It To Me

@@ -1,0 +1,631 @@
+1957	315	Frank Sinatra	Your Love For Me
+1942	127	Tommy Dorsey & His Orchestra (Vocal Frank Sinatra & Pied Pipers)	I'll Take Tallulah
+1908	96	Frank Stanley	You
+1924	92	Frank Crumit	Mindin' My Business
+1969	492	Aretha Franklin	Gentle On My Mind
+1942	45	Tommy Dorsey & His Orchestra (Vocal Frank Sinatra)	Take Me
+1946	280	Frankie Carle & His Orchestra	Without You
+1961	337	Frankie Avalon	A Perfect Love
+1953	33	Frankie Laine & Jimmy Boyd	Tell Me A Story
+1957	318	Frank Sinatra	Crazy Love
+1981	71	Franke and the Knockouts	Sweetheart
+2004	212	Frankee	F.U.R.B. (F U Right Back)
+1965	276	Frank Sinatra	Somewhere In Your Heart
+1959	325	Frankie Avalon	Two Fools
+1960	161	Frankie Avalon	Don't Throw Away All Those Teardrops
+1940	149	Tommy Dorsey & His Orchestra (Vocal Frank Sinatra)	All This and Heaven Too
+1975	83	Frankie Valli	Swearin' To God
+1969	222	Aretha Franklin	My Song
+1961	510	Frankie Calen	Joanie
+1921	155	Frank Crumit	Oh Me! Oh My!
+1921	40	Frank Crumit	I'm a Lonesome Little Raindrop
+1940	141	Frankie Masters & His Orchestra	Charming Little Faker
+1926	151	Frank Crumit	I'm Sitting on Top of the World
+1958	349	Frank Gallup	Got A Match?
+1909	6	Frank Stanley & Elise Stevenson	Good Evening, Caroline
+1954	198	Frank Sinatra	Half as Lovely (Twice As True)
+1952	151	Frank Sinatra	The Birth Of The Blues
+1959	90	Frankie Avalon	A Boy Without A Girl
+1927	236	Franklyn Baur	At Sundown (When Love is Calling Me Home)
+1951	26	Frankie Laine	Jealousy (Jalousie)
+1961	503	Aretha Franklin	Won't Be Long
+1978	12	Frankie Valli	Grease
+1950	328	Frankie Laine	If I Were A Bell
+1958	126	Frankie Avalon	I'll Wait For You
+1968	61	Aretha Franklin	The House That Jack Built
+1909	67	Frank Stanley	Cupid's Telephone
+1905	45	Frank Stanley & Corrine Morgan	When You and I Were Young, Maggie
+1982	312	Frank Barber Orchestra	Hooked On Big Bands (Glenn Miller Medley)
+1962	258	Frank Sinatra	Pocketful Of Miracles
+1947	63	Frank Sinatra	I Believe
+1953	108	Frank Sinatra	I've Got The World On A String
+1966	502	Frankie Valli	The Proud One
+1945	109	Frank Sinatra	I Should Care
+1941	94	Tommy Dorsey & His Orchestra (Vocal Frank Sinatra)	Two In Love
+1948	73	Frankie Laine	Shine
+1969	509	Frank Sinatra	Goin' Out Of My Head
+1906	97	Frank Stanley	The Belle of the Ball
+1977	434	Frank Lucas	Good Thing Man
+1950	208	Frankie Laine	The Stars and Stripes Forever
+1948	118	Frank Sinatra	But Beautiful
+1980	180	Frank Sinatra	Theme From New York, New York
+1968	421	Frank Sinatra	My Way Of Life
+1944	136	Frank Sinatra	A Lovely Way To Spend An Evening
+1949	187	Frankie Laine	Now That I Need You
+1975	14	Frankie Valli	My Eyes Adored You
+1922	55	Frank Crumit	Dapper Dan
+1899	16	Frank Stanley	My Old New Hampshire Home
+1968	130	Aretha Franklin	Ain't No Way
+1930	99	King Oliver & His Jazz Band (Vocal Frank Marvin)	St. James Infirmary
+1969	136	Aretha Franklin	Eleanor Rigby
+1929	229	Frank Luther & Carson Robison	The Utah Trail
+1947	16	Frank Sinatra	Mam'selle
+1946	239	Frank Sinatra	From This Day Forward
+1971	287	Hamilton, Joe Frank and Reynolds	Annabella
+1962	646	Frank Sinatra	Stardust
+1969	553	Frankie Laine	Dammit Isn't God's Last Name
+1958	192	Frank Sinatra	How Are Ya' Fixed For Love?
+1950	181	Frank Petty Trio	Rain
+1962	583	Aretha Franklin	Don't Cry Baby
+1967	49	Aretha Franklin	Baby I Love You
+1941	91	Tommy Dorsey & His Orchestra (Vocal Frank Sinatra)	Everything Happens to Me
+1974	441	Frank Zappa	Don't Eat The Yellow Snow
+1948	298	Frankie Carle & His Orchestra	Dreamy Lullaby
+1971	151	Aretha Franklin	You're All I Need To Get By
+1945	55	Frank Sinatra	Dream (When You're Feeling Blue)
+1951	96	Frankie Laine & Jo Stafford	Pretty Eyed Baby
+1966	55	Frank Sinatra	That's Life
+1974	258	Aretha Franklin	Without Love
+1910	59	Frank Stanley & Elise Stevenson	It's Hard to Kiss Your Sweetheart (When the Last Kiss Means Good-Bye)
+1944	192	Frankie Carle & His Orchestra	Charmaine
+1980	355	Frank Stallone	Case Of You
+1974	153	Aretha Franklin	I'm In Love
+1911	97	Frank Stanley & Henry Burr	The Moonlight, the Rose, and You
+1985	47	Aretha Franklin	Freeway Of Love
+1908	50	Frank Stanley & Henry Burr	Rainbow
+1902	42	Frank Stanley & Byron G. Harlan	First Rehearsal for the Huskin' Bee
+1964	29	J. Frank Wilson and the Cavaliers	Last Kiss
+1928	209	Frankie Trumbauer & His Orchestra	Mississippi Mud
+1910	60	Frank Stanley & Elise Stevenson	That Would be Lovely
+1944	33	Frank Sinatra	I Couldn't Sleep A Wink Last Night
+1949	285	Frank Sinatra	Autumn In New York
+1924	181	Frank Crumit	Ida (Sweet as Apple Cider)
+1969	200	Aretha Franklin	I Can't See Myself Leaving You
+1927	56	Frankie Trumbauer & His Orchestra	I'm Coming, Virginia
+1913	29	Frank Croxton	On the Road to Mandalay
+1962	672	Aretha Franklin	Try A Little Tenderness
+1908	53	Harry MacDonough & Frank Stanley	Some Day You'll Come Back to Me
+1940	145	Tommy Dorsey & His Orchestra (Vocal Frank Sinatra)	Say It
+1955	145	Frank Sinatra	Melody Of Love
+1946	71	Frank Sinatra	White Christmas
+1946	272	Frank Sinatra	The House I Live In
+1922	25	Frank Crumit	Sweet Lady
+1982	184	Frank Zappa	Valley Girl
+1945	37	Frankie Carle & His Orchestra	A Little on the Lonely Side
+1964	221	Frank Sinatra	Softly, As I Leave You
+1905	95	Frank Stanley & Byron G. Harlan	Soldier Boy
+1986	163	Aretha Franklin	Another Night
+1956	93	Frankie Lymon and the Teenagers	I Want You To Be My Girl
+1955	13	Frank Sinatra	Learnin' The Blues
+1985	81	Aretha Franklin	Who's Zoomin' Who
+1958	323	Frankie Avalon	You Excite Me
+1939	2	Frankie Masters & His Orchestra	Scatter-Brain
+1927	202	Frankie Trumbauer & His Orchestra	Riverboat Shuffle
+1943	27	Frank Sinatra	People Will Say We're in Love
+1952	54	Doris Day & Frankie Laine	Sugarbush
+1951	65	Jo Stafford & Frankie Laine	Hey, Good Lookin'
+1943	35	Tommy Dorsey & His Orchestra (Vocal Frank Sinatra & Pied Pipers)	It Started All Over Again
+1941	50	Tommy Dorsey & His Orchestra (Vocal Frank Sinatra & Pied Pipers)	Do I Worry?
+1951	59	Frank Sinatra (Harry James Orchestra)	Castle Rock
+1950	283	Frank Sinatra	American Beauty Rose
+1951	222	Frankie Laine	The Girl In The Wood
+2006	236	Kirk Franklin	Looking For You
+1950	308	Frankie Laine	Satan Wears A Satin Gown
+1941	35	Tommy Dorsey & His Orchestra (Vocal Frank Sinatra)	This Love Of Mine
+1926	100	Frank Munn	Lullaby Lane
+1966	298	Frank Gallop	The Ballad Of Irving
+1941	157	Tommy Dorsey & His Orchestra (Vocal Frank Sinatra & Connie Haines & Pied Pipers)	You Might Have Belonged to Another
+1949	131	Frank Sinatra	Sunflower
+1961	403	Frank Sinatra	I'll Be Seeing You
+1942	190	Tommy Dorsey & His Orchestra (Vocal Frank Sinatra)	Light a Candle in the Chapel
+1947	289	Frankie Carle & His Orchestra	And Mimi
+1921	84	Frank Crumit	I Used to Love You, but It's All Over Now
+1969	347	Frankie Valli	The Girl I'll Never Know (Angels Never Fly This Low)
+1967	90	Aretha Franklin	I Never Loved A Man (The Way I Love You)
+1951	146	Frankie Laine	Wonderful, Wasn't It?
+1947	222	Frank Sinatra	The Dum-Dot Song
+1936	160	Frank Froeba & His Swing Band	Organ Grinder's Swing
+1967	363	Frankie Laine	You Wanted Someone To Play With (I Wanted Someone To Love)
+1976	254	Frankie Avalon	Venus (Disco Version)
+1942	260	Frankie Masters & His Orchestra	How Long Did I Dream?
+1985	102	Frankie Goes To Hollywood	Relax (Mix)
+1970	528	Frank Sinatra	I Would Be In Love (Anyway)
+1948	184	Frank Sinatra	Just For Now
+1953	103	Frankie Laine	I'm Just a Poor Bachelor
+1953	143	Frankie Laine	Your Cheatin' Heart
+1951	189	Frank Sinatra & Dagmar	Mama Will Bark
+1929	220	Franklyn Baur	Where is the Song of Songs for Me?
+1973	206	Aretha Franklin	Master Of Eyes (The Deepness Of Your Eyes)
+1962	605	Aretha Franklin	Rough Lover
+1946	276	Frank Sinatra	Begin The Beguine
+1927	58	Franklyn Baur	Tonight You Belong to Me
+1952	223	Frank Sinatra	I Hear A Rhapsody
+1921	125	Paul Biese Trio & Frank Crumit	Mimi
+1967	28	Frankie Valli	Can't Take My Eyes Off You
+1979	34	Frank Mills	Music Box Dancer
+1953	342	Frankie Laine & Jo Stafford	Way Down Yonder in New Orleans
+1927	185	Frank Black & His Orchestra	A Tree in the Park
+1916	100	Frank Tinney	Frank Tinney's First Record
+1938	293	Frank Novak & His Orchestra	Dear Old Girl (Medley)
+1947	315	Frankie Laine	Black And Blue
+1945	110	Frankie Carle & His Orchestra	Saturday Night (Is the Loneliest Night in the Week)
+1950	120	Frankie Laine	Nevertheless (I'm in Love with You)
+1976	410	Frankie Valli	We're All Alone
+1961	280	Aretha Franklin	Rock-A-Bye Your Baby (With A Dixie Melody)
+1950	90	Frank Sinatra	One Finger Melody
+1975	422	Frank Sinatra	Anytime (I'll Be There)
+1945	61	Frank Sinatra	White Christmas
+1987	187	Aretha Franklin	Jimmy Lee
+1946	70	Frankie Carle & His Orchestra	It's All Over Now
+1944	202	Frank Sinatra (Harry James Orchestra)	On a Little Street in Singapore
+1960	490	Frankie Avalon	Tuxedo Junction
+1954	90	Frankie Laine	Some Day
+1958	64	Frank Sinatra	Witchcraft
+1953	296	Frankie Laine & Jimmy Boyd	The Little Boy and the Old Man
+1970	165	Aretha Franklin	Spirit In The Dark
+1941	167	Tommy Dorsey & His Orchestra (Vocal Frank Sinatra)	A Sinner Kissed An Angel
+1942	145	Tommy Dorsey & His Orchestra (Vocal Frank Sinatra & Pied Pipers)	The Last Call for Love
+1960	311	Frank Chacksfield	On The Beach
+1946	263	Frank Sinatra	Something Old, Something New
+1903	44	Frank Stanley & Corrine Morgan	It's a Lovely Day for a Walk
+1972	455	Aretha Franklin	Wholy Holy
+1979	265	Frank Zappa	Dancin' Fool
+1967	665	Aretha Franklin	Mockingbird
+1954	28	Frank Sinatra	Three Coins In The Fountain
+1962	221	Frankie Avalon	You Are Mine
+1951	147	Frank Sinatra	You're the One
+1950	303	Frank DeVol & His Orchestra	Dream Awhile
+1942	71	Tommy Dorsey & His Orchestra (Vocal Frank Sinatra)	How About You?
+1926	101	Franklyn Baur	Just a Cottage Small
+1953	55	Frank Sinatra	I'm Walking Behind You
+1956	390	Frank Sinatra	Five Hundred Guys
+1924	47	Franklyn Baur	Deep in My Heart
+1940	150	Tommy Dorsey & His Orchestra (Vocal Frank Sinatra)	Fools Rush In (Where Angels Fear to Tread)
+1961	597	Frankie Avalon	True True Love
+1946	149	Frank Sinatra	The Girl That I Marry
+1923	113	Frank Crumit	When You Walked Out, Someone Else Walked Right In
+1940	40	Tommy Dorsey & His Orchestra (Vocal Frank Sinatra)	We Three (My Echo, My Shadow, And Me)
+1902	48	Frank Stanley & Byron G. Harlan	Closing Time at a Country Grocery
+1958	193	Frankie Vaughan	Judy
+1971	59	Aretha Franklin	Bridge Over Troubled Water
+1945	20	Frank Sinatra	Saturday Night (Is The Loneliest Night of the Week) 
+1929	159	Frank Luther	Barnacle Bill the Sailor
+1958	414	Doug Franklin	My Lucky Love
+1970	112	Aretha Franklin	Call Me
+1967	244	Frank Sinatra	The World We Knew (Over And Over)
+1907	92	Frank Stanley & Henry Burr	When Summer Tells Autumn Good-Bye
+1951	21	Frankie Laine	Rose, Rose, I Love You
+1908	106	Frank Stanley & Henry Burr	Bye Bye Dearie
+1962	317	Frank Slay and His Orchestra	Flying Circle
+1927	101	Frank Crumit	Crazy Words-Crazy Tune
+1940	247	Tommy Dorsey & His Orchestra (Vocal Frank Sinatra)	Polka Dots and Moonbeams
+1905	86	Frank Stanley	Little Girl, You'll Do
+1976	324	Hamilton, Joe Frank and Reynolds	Everyday Without You
+1998	287	Kirk Franklin	Lean On Me
+1968	212	Frankie Valli	To Give (The Reason I Live)
+1921	76	Paul Biese Trio & Frank Crumit	I Ain't Nobody's Darling
+1929	163	Johnny Hamp & His Orchestra v Frank Munn	Blue Shadows
+1960	181	Frank Sinatra	Ol' MacDonald
+1907	11	Frank Stanley & Henry Burr	Red Wing (An Indian Fable)
+1959	76	Frankie Avalon	Bobby Sox To Stockings
+1998	107	Aretha Franklin	A Rose Is Still A Rose
+1945	241	Frank Sinatra	If You Are But A Dream
+1982	143	Franke and the Knockouts	Without You (Not Another Lonely Night)
+1907	69	Frank Stanley	Sombody's Waiting for You
+1976	142	Hamilton, Joe Frank and Reynolds	Winners And Losers
+1963	532	Aretha Franklin	Trouble In Mind
+1968	174	Frank Sinatra	Cycles
+1948	37	Frankie Carle & His Orchestra (Vocal Marjorie Hughes)	Beg Your Pardon
+1951	212	Frank Sinatra	We Kiss In A Shadow
+1926	166	Johnny Hamp & His Orchestra v Charles Buckwalter & Frank Master & Elwood Groff	Cecelia
+1948	224	Frankie Carle & His Orchestra	(I'm A-Comin', I'm A-Courtin') Corabelle
+1950	315	Frank Sinatra	Sorry
+1989	149	Aretha Franklin	Through The Storm
+1949	80	Frank Sinatra	Don't Cry, Joe (Let Her Go, Let Her Go, Let Her Go)
+1917	78	Helen Louise & Frank Ferera	Along the Way to Wakiki
+1940	181	Tommy Dorsey & His Orchestra (Vocal Frank Sinatra)	The Call of the Canyon
+1960	447	Frankie Ford	Time After Time
+1948	291	Frankie Laine	Monday Again
+1987	10	Aretha Franklin	I Knew You Were Waiting (For Me)
+1962	529	Aretha Franklin	I Surrender Dear
+1958	90	Frankie Avalon	Ginger Bread
+1931	107	Frank Luther	I'm Alone Because I Love You
+1960	455	Frank DeVol	La Montana (If She Should Come To You)
+1970	575	Frankie Valli	Patch Of Blue
+1949	102	Frankie Yankovic & His Yanks v Marlin Sisters	Blue Skirt Waltz
+1928	199	Frankie Trumbauer & His Orchestra	Dusky Stevedore
+1936	105	Frank Froeba & His Swing Band	The Music Goes Round and Round
+1967	11	Aretha Franklin	Respect
+1952	169	Frank Sinatra	Bim Bam Baby
+1952	165	Frankie Laine	The Rock Of Gilbralter
+1965	352	Frank Sinatra	Anytime At All
+1989	220	Aretha Franklin	It Isn't, It Wasn't, It Ain't Never Gonna Be
+1964	542	Frank Sinatra	Stay With Me
+1960	364	Frankie Lymon	Little Bitty Pretty One
+1953	286	Frankie Laine	Answer Me, Lord Above
+1968	539	Aretha Franklin	Soulville
+1948	57	Frank Sinatra	Nature Boy
+1943	29	Tommy Dorsey & His Orchestra (Vocal Frank Sinatra)	It's Always You
+1932	29	Arden-Ohman Orchestra v Frank Munn	When We're Alone (Penthouse Serenade)
+1940	315	Frankie Masters & His Orchestra	A Lover's Lullaby
+1948	308	Frank Sinatra	Everybody Loves Somebody
+1987	358	Aretha Franklin	Rock-A-Lott
+1948	302	Frank Gallagher	You're All I Want for Christmas
+1958	282	Frank Sinatra	Mr. Success
+1902	29	Frank Stanley & Byron G. Harlan	Two Rubes in a Tavern
+1921	159	Frank Ferera	Hawaiian Medley
+1975	26	Hamilton, Joe Frank and Reynolds	Fallin' In Love
+1940	86	Tommy Dorsey & His Orchestra (Vocal Frank Sinatra)	Imagination
+1956	54	Frank Sinatra	(Love Is) The Tender Trap
+1930	156	Frankie Trumbauer & His Orchestra	Get Happy
+1954	23	Frank Weir & His Orchestra	The Happy Wanderer
+1943	21	Frank Sinatra	You'll Never Know
+1972	424	Aretha Franklin	Oh Me Oh My (I'm A Fool For You Baby)
+1944	134	Frank Sinatra	Night and Day
+1941	220	Frankie Masters & His Orchestra	Daddy
+1910	44	Frank Stanley & Elise Stevenson	What Makes the World Go Round
+1927	92	Frankie Trumbauer & His Orchestra	Singin' The Blues
+1954	164	Frank Sinatra	The Gal That Got Away
+1908	49	Frank Stanley & Elise Stevenson	The Cavalier
+1949	145	Frank Sinatra	That Lucky Old Sun
+1907	24	Ada Jones & Billy Murray & Frank Stanley	Whistle It
+1982	145	Aretha Franklin	Jump To It
+1974	470	J. Frank Wilson and the Cavaliers	Last Kiss
+1981	229	Aretha Franklin	Love All The Hurt Away
+1940	58	Tommy Dorsey & His Orchestra (Vocal Frank Sinatra)	Our Love Affair
+1940	231	Tommy Dorsey & His Orchestra (Vocal Frank Sinatra)	Love Lies
+1994	225	Aretha Franklin	A Deeper Love
+1961	479	Frankie Ford	Seventeen
+1947	155	Frank Sinatra	I Have But One Heart
+1967	411	Aretha Franklin	Take A Look
+1981	385	Aretha Franklin	Come To Me
+1942	48	Tommy Dorsey & His Orchestra (Vocal Frank Sinatra & Pied Pipers)	Just As Though You Were Here
+1945	207	Frank Sinatra	What Makes The Sunset
+1962	407	Frank Sinatra	Me And My Shadow
+1966	328	Frankie Valli	(You're Gonna) Hurt Yourself
+1968	622	Frankie Karl and the Dreams	Don't Be Afraid (Do As I Say)
+1957	387	Frank Sinatra	So Long, My Love
+1969	406	Frank Sinatra	Rain In My Heart
+1950	136	Frankie Laine	Music, Maestro, Please!
+1905	16	Frank Stanley	In the Shadow of the Pyramid
+1981	271	Aretha Franklin	United Together
+1964	572	J. Frank Wilson and the Cavaliers	Hey Little One
+1953	365	Frankie Laine	I Let Her Go
+1956	401	Frank Sinatra	Johnny Concho Theme (Wait For Me)
+1954	361	Frank Sinatra	It Worries Me
+1967	474	Frankie Laine	Laura, What's He Got That I Ain't Got
+1910	61	Frank Stanley & Henry Burr	Silver Bell
+1929	170	Franklyn Baur	Marie
+1899	38	Frank Stanley	Mid the Green Fields of Virginia
+1961	536	Frankie Miller (of 1961)	Black Land Farmer
+1976	377	Hamilton, Joe Frank and Dennison	Don't Fight The Hands (That Need You)
+1971	44	Hamilton, Joe Frank and Reynolds	Don't Pull Your Love
+1927	197	Frank Black & His Orchestra	The Best Things in Life are Free
+1976	353	Hamilton, Joe Frank and Dennison	Light Up The World With Sunshine
+1906	47	Frank Stanley & Corrine Morgan	The Moon Has His Eyes On You
+1940	66	Frankie Masters & His Orchestra	Alice Blue Gown
+1967	173	Frankie Valli	I Make A Fool Of Myself
+1963	379	Frank Ifield	I'm Confessin' (That I Love You)
+1943	8	Tommy Dorsey & His Orchestra (Vocal Frank Sinatra)	In The Blue Of Evening
+1926	159	Lewis James & Franklyn Baur	At Peace with the World
+1906	29	Frank Stanley	Good-Bye, Sweetheart, Good-Bye
+1998	277	Aretha Franklin	Here We Go Again
+1932	67	Frankie Trumbauer & His Orchestra	Medley of Isham Jones Dance Hits
+1952	301	Frankie Laine	When You're in Love
+1975	112	Frankie Valli	Our Day Will Come
+1940	3	Tommy Dorsey & His Orchestra (Vocal Frank Sinatra & Pied Pipers)	I'll Never Smile Again
+1907	25	Frank Stanley	Auld Lang Syne
+1959	357	Frank Sinatra	French Foreign Legion
+1961	187	Frank Gari	Lullaby Of Love
+1957	367	Frank Pizani	Angry
+1908	19	Frank Stanley	Any Old Port in a Storm
+1920	129	Henry Burr & Frank Croxton	Weeping Willow Lane
+1948	71	Frankie Yankovic & His Yanks	Just Because
+1944	36	Tommy Dorsey & His Orchestra (Vocal Frank Sinatra)	I'll Be Seeing You
+1969	486	Frank Sinatra	Love's Been Good To Me
+1951	144	Frankie Laine & Jo Stafford	In the Cool, Cool, Cool of the Evening
+1948	93	Frankie Laine	You're All I Want For Chistmas
+1983	83	Frank Stallone	Far From Over
+1949	151	Doris Day & Frank Sinatra	Let's Take an Old-Fashioned Walk
+1956	449	Frankie Laine	Don't Cry
+1949	70	Frankie Carle & His Orchestra	Cruising Down the River
+1949	298	Frankie Laine	You're All I Want For Chistmas
+1909	11	Frank Stanley & Henry Burr	In the Garden of My Heart
+1984	391	Frank Stallone	Darlin'
+1947	140	Frank Sinatra	This Is the Night
+1974	422	Frank Sinatra	Bad, Bad Leroy Brown
+1946	95	Frank Sinatra	The Things We Did Last Summer
+1985	245	Frankie Goes To Hollywood	Welcome To The Pleasure Dome
+1949	164	Frank Sinatra	Bali Ha'i
+1965	680	Aretha Franklin	Can't You Just See Me
+1975	322	Aretha Franklin	Mr. D.J. (5 For The D.J.)
+1940	106	Tommy Dorsey & His Orchestra (Vocal Frank Sinatra)	Trade Winds
+1920	148	Frank Ferera	Beautiful Hawaii
+1924	97	Frank Crumit	Say it with a Ukelele
+1973	341	Frank Sinatra	Let Me Try Again (Laisse Moi Le Temps)
+1969	461	Aretha Franklin	Tracks Of My Tears
+1963	307	Frank Ifield	Lovesick Blues
+1945	240	Frankie Carle & His Orchestra	Evelina
+1974	266	Aretha Franklin	Ain't Nothing Like The Real Thing
+2005	27	Frankie J.	Obsession (No Es Amor)
+1948	282	Frank Sinatra	My Cousin Louella
+1927	227	Frank Crumit	Frankie and Johnny
+1947	159	Frankie Laine	Mam'selle
+1929	222	Frank Crumit	Return of the Gay Caballero
+1968	47	Aretha Franklin	(Sweet Sweet Baby) Since You've Been Gone
+1972	184	Aretha Franklin	All The King's Horses
+1965	542	Frank Sinatra	Forget Domani
+1960	182	Frankie Avalon	Togetherness
+1948	4	Nat King Cole (Frank DeVol & His Orchestra)	Nature Boy
+1960	518	Frankie Ford	You Talk Too Much
+1953	317	Jo Stafford & Frankie Laine	Chow Willy
+1946	6	Frank Sinatra	Oh! What It Seemed to Be
+1967	280	Frankie Laine	Making Memories
+1942	89	Tommy Dorsey & His Orchestra (Vocal Frank Sinatra)	Daybreak
+1957	38	Frankie Laine	Moonlight Gambler
+1956	172	Frank Sinatra	Flowers Mean Forgiveness
+1953	302	Frank Sinatra	Lean Baby
+1947	220	Frank Sinatra	Ain'tcha Ever Comin' Back
+1958	30	Frank Sinatra	All The Way
+1946	3	Frankie Carle & His Orchestra	Rumors Are Flying
+1971	24	Aretha Franklin	Spanish Harlem
+1905	26	Frank Stanley	In Dear Old Georgia
+1927	117	Frankie Trumbauer & His Orchestra	There's a Cradle in Caroline
+1925	148	Frank Crumit	I Married the Bootlegger's Daughter
+1943	13	Frank Sinatra (Harry James Orchestra)	All or Nothing at All
+1920	60	Frank Crumit	My Little Bimbo Down on the Bimbo Isle
+1940	182	Frankie Masters & His Orchestra	All The Things You Are
+1956	412	Frankie Lymon and the Teenagers	The ABC's Of Love
+1967	445	Erma Franklin	Piece Of My Heart
+1908	13	Frank Stanley & Henry Burr	She's the Fairest Little Flower Old Dixie Ever Grew
+1972	280	Frank Mills	Love Me, Love Me Love
+1904	6	Frank Stanley & Byron G. Harlan	Blue Bell
+1927	184	Franklyn Baur	Just a Memory
+1959	558	Frankie Ford	Alimony
+1948	197	Frank Sinatra	I've Got a Crush on You
+1962	665	Frank Sinatra	The Moon Was Yellow
+1947	46	Frankie Laine	That's My Desire
+1920	36	Paul Biese Trio & Frank Crumit	Chili Bean
+1954	120	Frankie Laine	Granada
+1969	147	Aretha Franklin	The Weight
+1946	10	Frank Sinatra	Five Minutes More
+1968	96	Aretha Franklin	I Say A Little Prayer
+1955	143	Frankie Laine	A Woman In Love
+1945	144	Frank Sinatra	Nancy (With The Laughing Face)
+1910	10	Frank Stanley & Byron G. Harlan	Tramp! Tramp! Tramp!
+1944	215	Frank Sinatra (Harry James Orchestra)	It's Funny to Everyone But Me
+1961	541	Frankie Avalon	Who Else But You
+1946	224	Frank Sinatra	Full Moon and Empty Arms
+1941	17	Tommy Dorsey & His Orchestra (Vocal Frank Sinatra & Pied Pipers)	Dolores
+1924	127	Frank Ferera	Aloha Oe (Farewell to Thee)
+1937	360	Frank Dailey & His Orchestra	Good Mornin'
+1931	121	Frankie Trumbauer & His Orchestra v Art Jarrett	Georgia On My Mind
+1910	132	Frank Stanley & Henry Burr	We Shall Meet Bye and Bye
+1941	80	Tommy Dorsey & His Orchestra (Vocal Frank Sinatra & Pied Pipers)	Star Dust
+1940	103	Tommy Dorsey & His Orchestra (Vocal Frank Sinatra)	You're Lonely And I'm Lonely
+1980	459	Frankie Valli	Where Did We Go Wrong
+1962	467	Frankie Avalon	A Miracle
+1961	466	Frankie Avalon	All Of Everything
+1946	24	Frank Sinatra	They Say It's Wonderful
+1961	352	Frank Sinatra	The Second Time Around
+1977	390	Aretha Franklin	Look Into Your Heart
+1964	409	Aretha Franklin	Runnin' Out Of Fools
+1921	53	Frank Crumit	All By Myself
+2005	161	Frankie J.	How To Deal
+1955	36	Frank Sinatra	Love And Marriage
+1970	227	Aretha Franklin	Border Song (Holy Moses)
+1966	254	Frank Sinatra	It Was A Very Good Year
+1976	167	Aretha Franklin	Something He Can Feel
+1960	489	Frank Sinatra	River, Stay 'Way From My Door
+1971	83	Aretha Franklin	Rock Steady
+1952	187	Frankie Laine & Jo Stafford	Tonight We're Settin' The Woods On Fire
+1972	60	Aretha Franklin	Day Dreaming
+1934	93	Frank Parker	Two Cigarettes in the Dark
+1968	397	Frank Sinatra	I Can't Believe I'm Losing You
+1909	18	Frank Stanley & Henry Burr	Shine On, Harvest Moon
+1968	71	Aretha Franklin	Think
+1967	390	Frank Sinatra	This Town
+1951	164	Frankie Laine	Metro Polka
+1940	128	Tommy Dorsey & His Orchestra (Vocal Frank Sinatra & Pied Pipers)	The One I Love Belongs to Somebody Else
+1968	369	Aretha Franklin	You Send Me
+1962	473	Frank Sinatra	Ev'rybody's Twistin'
+1972	249	Hamilton, Joe Frank and Reynolds	Daisy Mae
+1960	371	Frank Sinatra	Nice 'N' Easy
+1946	200	Frankie Carle & His Orchestra	I'd Be Lost Without You
+1957	164	Frankie Lymon and the Teenagers	Goody Goody
+1970	100	Aretha Franklin	Don't Play That Song
+1959	14	Frankie Avalon	Why
+1936	298	Frank Froeba & His Swing Band	It All Begins and Ends with You
+1960	225	Frankie Avalon	Where Are You
+1950	277	Frank Sinatra	God's Country
+1946	53	Frank Sinatra	Day by Day
+1979	411	Frankie Valli	Fancy Dancer
+1950	137	Frank Sinatra	The Old Master Painter
+1966	230	Frank Sinatra	Summer Wind
+1927	141	Franklyn Baur	Russian Lullaby
+1958	77	Frankie Avalon	Dede Dinah
+1907	67	Frank Stanley	In the Evening by the Moonlight, Dear Louise
+1955	211	Frankie Laine	Hawk-Eye
+1941	21	Tommy Dorsey & His Orchestra (Vocal Frank Sinatra & Connie Haines & Pied Pipers)	Oh, Look At Me Now
+1965	429	Frank Sinatra	Tell Her (You Love Her Every Day)
+1913	94	Frank Croxton	Till the Sands of the Desert Grow Cold
+1973	144	Aretha Franklin	Angel
+1952	37	Frankie Laine	High Noon (Do Not Forsake Me)
+1924	104	Frank Crumit	My Home Town in Kansas
+1957	132	Frank Sinatra	Can I Steal A Little Love
+1976	240	Michael Franks	Popsicle Toes
+1959	114	Frankie Ford	Sea Cruise
+1944	69	Frank Sinatra	White Christmas
+1975	290	Frank Sinatra	I Believe I'm Gonna Love You
+1949	2	Frankie Laine	That Lucky Old Sun
+1905	61	Frank Stanley & Corrine Morgan	Just My Style
+1977	399	Aretha Franklin	Break It To Me Gently
+2005	108	Frankie J.	More Than Words
+1946	2	Frankie Carle & His Orchestra (Vocal Marjorie Hughes)	Oh! What It Seemed to Be
+1968	111	Aretha Franklin	See Saw
+1955	91	Frank Sinatra	Same Old Saturday Night
+1904	21	Frank Stanley & Corrine Morgan	Listen to the Mocking Bird
+1941	221	Frankie Masters & His Orchestra	Let's Dream This One Out
+1954	15	Frank Sinatra	Young-At-Heart
+1955	130	Frankie Laine	Humming Bird
+1921	83	Paul Biese Trio & Frank Crumit	Timbuctoo
+1950	110	Frank Sinatra	Chattanoogie Shoe Shine Boy
+2006	163	Frankie J.	That Girl
+1943	91	Frank Sinatra	Night and Day
+1956	289	Frank Sinatra	You're Sensational
+1959	200	Frank Sinatra	High Hopes
+1945	122	Frank Sinatra	Don't Forget Tonight Tomorrow
+1941	120	Tommy Dorsey & His Orchestra (Vocal Frank Sinatra)	You And I
+1946	88	Frank Sinatra	All Through the Day
+1926	138	Franklyn Baur	Brown Eyes, Why Are You Blue?
+1966	25	Frank Sinatra	Strangers In The Night
+1951	114	Frank Sinatra	Nevertheless
+1942	174	Tommy Dorsey & His Orchestra (Vocal Frank Sinatra)	I Think of You
+1942	139	Tommy Dorsey & His Orchestra (Vocal Frank Sinatra & Pied Pipers)	Street of Dreams
+1981	166	Frankie Smith	Double Dutch Bus
+1943	55	Frank Sinatra	Sunday, Monday, or Always
+1957	39	Frank Sinatra	Hey! Jealous Lover
+1921	127	Frank Crumit	Home Again Blues
+1954	163	Frank Sinatra	I Could Have Told You
+1928	40	Frank Crumit	S Wonderful
+1956	98	Frank Sinatra	(How Little It Matters) How Little We Know
+1948	205	Frankie Laine	Ah, But It Happens
+1911	44	Frank Stanley & Byron G. Harlan	Chicken Reel
+1940	230	Tommy Dorsey & His Orchestra (Vocal Frank Sinatra)	I Could Make You Care
+1945	228	Frankie Carle & His Orchestra	Counting the Days
+1952	181	Frankie Laine	The Gandy Dancer's Ball
+2003	81	Frankie J	Don't Wanna Try
+1949	60	Frank Sinatra	Some Enchanted Evening
+1907	80	Frank Stanley	The Tale the Church Bell Tolled
+1950	16	Frankie Laine	The Cry Of The Wild Goose
+1943	72	Frank Sinatra	Oh, What A Beautiful Mornin'
+1906	80	Frank Stanley	When the Mocking Birds are Singing in the Wildwood
+1962	51	Frank Ifield	I Remember You
+1957	92	Frankie Laine	Love Is A Golden Ring
+1905	103	Frank Stanley & Byron G. Harlan	The Battle Cry of Freedom
+1984	221	Frankie Goes To Hollywood	Two Tribes
+1957	425	Frank Sinatra	Chicago
+1947	221	Frank Sinatra	Stella by Starlight
+1956	312	Frankie Lymon and the Teenagers	I Promise To Remember
+1969	176	Frankie Laine	You Gave Me A Mountain
+1947	103	Frank Sinatra	September Song
+1910	120	Frank Stanley & Henry Burr	My Prairie Song Bird
+1953	326	Frankie Laine	Tonight You Belong to Me
+1950	55	Frank Sinatra	Goodnight Irene
+1954	116	Frank Sinatra	Don't Worry 'Bout Me
+1977	349	Frankie Miller (of 1977)	The Doodle Song
+1994	107	Aretha Franklin	Willing To Forgive
+1950	189	Frankie Laine	Dream a Little Dream of Me
+1984	319	Frankie Goes To Hollywood	Relax
+1974	424	Frank Sinatra	You Turned My World Around
+1948	241	Frank Sinatra	You're My Girl
+1940	330	Frank Novak & His Orchestra	You're on the Right Side of the Ocean
+1957	205	Frank Sinatra	You're Cheatin' Yourself (If You're Cheatin' On Me)
+1922	77	Frank Crumit	Stumbling
+1950	132	Frankie Laine	Swamp Girl
+1921	133	Frank Crumit	Palesteena
+1947	121	Frank Sinatra	That's How Much I Love You
+1948	162	Frankie Laine	Baby, That Ain't Right
+1967	573	Frankie Laine	You, No One But You
+1959	235	Frank Sinatra	Talk To Me
+1905	102	Frank Stanley & Corrine Morgan	Juanita
+1940	216	Frankie Masters & His Orchestra	The Same Old Story
+1940	137	Frankie Masters & His Orchestra	Ferry-Boat Serenade
+1909	25	Frank Stanley & Byron G. Harlan	Meet Me in Rose-Time, Rosie
+1953	13	Frankie Laine	I Believe
+1943	6	Tommy Dorsey & His Orchestra (Vocal Frank Sinatra & Pied Pipers)	There Are Such Things
+1928	232	Franklyn Baur	Diane (I'm in Heaven When I See You Smile)
+1920	78	Frank Crumit	So Long, Oo-Long (How Long You Gonna Be Gone)
+1953	45	Frankie Laine	Hey Joe!
+1956	359	Frank Sinatra	You'll Get Yours
+1963	347	Frankie Laine	Don't Make My Baby Blue
+1983	301	Aretha Franklin	Get It Right
+1964	489	Frank Ifield	Please
+1947	108	Frankie Carle & His Orchestra	Roses in the Rain
+1976	376	Aretha Franklin	Jump
+1906	36	Frank Stanley	I Want What I Want When I Want It
+1929	21	Frank Crumit	A Gay Caballero
+1953	185	Frankie Laine	Blowing Wild (The Ballad of Black Gold)
+1945	90	Frank Sinatra	If I Loved You
+1961	217	Frank Gari	Utopia
+1953	40	Frank Chacksfield & His Orchestra	Limelight (Terry's Theme)
+1947	233	Frankie Laine	Two Loves Have I
+1959	3	Frankie Avalon	Venus
+1941	139	Tommy Dorsey & His Orchestra (Vocal Frank Sinatra & Pied Pipers)	I Guess I'll Have to Dream the Rest
+1952	46	Frankie Laine & Jo Stafford	Hambone
+1959	67	Frankie Avalon	Just Ask Your Heart
+1982	323	Frankie Miller	To Dream The Dream
+1976	203	Frankie Valli	Fallen Angel
+1979	283	Frank Mills	Peter Piper
+1967	80	Aretha Franklin	A Natural Woman (You Make Me Feel Like)
+1954	305	Frankie Laine	Your Heart, My Heart
+1905	62	Frank Stanley	Listen to the Big Brass Band
+1924	38	Frank Crumit	Old-Fashioned Love
+1948	83	Frankie Carle & His Orchestra	Twelfth Street Rag
+1960	515	Frankie Avalon	Don't Let Love Pass Me By
+1961	242	Frank Gari	Princess
+1907	91	Frank Stanley & Harry MacDonough	Almost Persuaded
+1969	196	Frank Sinatra	My Way
+1963	493	Frank Sinatra	Call Me Irresponsible
+1968	22	Aretha Franklin	Chain Of Fools
+1944	158	Frank Sinatra (Harry James Orchestra)	Every Day of My Life
+1921	60	Frank Crumit	Three O'Clock in the Morning
+1949	6	Frankie Laine	Mule Train
+1946	62	Frank Sinatra	The Coffee Song
+1958	442	Frankie Avalon	What Little Girl
+1907	37	Frank Stanley & Elise Stevenson	The Linger Longer Girl
+1908	75	Frank Stanley	From Your Dear Heart to Mine
+1946	124	Frankie Carle & His Orchestra	One More Tomorrow
+1968	532	Frankie Laine	To Each His Own
+1947	294	Frank Sinatra	A Fellow Needs a Girl
+1921	85	Frank Crumit	Margie
+1981	154	Franke and the Knockouts	You're My Girl
+1949	87	Frank Sinatra	The Hucklebuck
+1948	253	Frank Sinatra	What'll I Do?
+1969	111	Aretha Franklin	Share Your Love With Me
+1960	267	Frankie Avalon	Swingin' On A Rainbow
+1947	204	Frank Sinatra	Almost Like Being In Love
+1974	48	Aretha Franklin	Until You Come Back To Me (That's What I'm Gonna Do)
+1953	111	Frank Sinatra	From Here to Eternity
+1960	353	Frankie Avalon	The Puppet Song
+1951	256	Frank Petty Trio	Down Yonder
+1945	266	Frank Sinatra	Homesick - That's All
+1951	111	Frank Sinatra	I'm A Fool To Want You
+1986	159	Aretha Franklin	Jumpin' Jack Flash
+1931	48	Frank Luther & Carson Robison	When Your Hair Has Turned to Silver
+1961	441	Frank Sinatra	Granada
+1954	127	Frank Sinatra	South Of The Border
+1945	129	Frank Sinatra	You'll Never Walk Alone
+1927	243	Arnold Frank & His Roger's Cafe Orchestra	Rain
+1947	104	Frank Sinatra	So Far
+1906	86	Frank Stanley & Corrine Morgan	By the Light of the Honeymoon
+1947	179	Frank Sinatra	Time After Time
+1948	183	Frank Sinatra	All of Me
+1947	312	Frank Sinatra	Christmas Dreaming
+1967	309	Frankie Laine	I'll Take Care Of Your Cares
+1947	236	Frankie Carle & His Orchestra	Peggy O'Neil
+1954	155	Frankie Laine & Four Lads	Rain, Rain, Rain
+1952	306	Frank Sinatra	Azure-Te (Paris Blues)
+1954	136	Frankie Laine	The Kid's Last Fight
+1943	57	Frank Sinatra	Close To You
+1953	12	Frank Chacksfield & His Orchestra	Ebb Tide
+1953	385	Frank Sinatra	My One and Only Love
+1951	168	Jo Stafford & Frankie Laine	Gambella (The Gamblin' Lady)
+1912	27	Frank Coombs & William H. Thompson	The Harbor of Love
+1951	13	Frankie Laine	Jezebel
+1945	80	Frank Sinatra	I Dream Of You
+1942	109	Tommy Dorsey & His Orchestra (Vocal Frank Sinatra)	Be Careful, It's My Heart
+1909	94	Frank Stanley & Henry Burr	Softly and Tenderly
+1948	151	Frank Sinatra	It Only Happens When I Dance With You
+1920	25	Frank Crumit	Oh! By Jingo! Oh! By Gee!
+1907	68	Frank Stanley & Byron G. Harlan	In the Wildwood Where the Blue Bells Grew
