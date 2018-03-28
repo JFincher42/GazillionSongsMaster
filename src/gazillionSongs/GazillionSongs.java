@@ -1,7 +1,7 @@
 /*
  * Gazillion Songs Programming Project
  * 
- * Newport High AP CS class project
+ * AP CS class project
  */
 
 package gazillionSongs;
