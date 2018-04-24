@@ -89,9 +89,9 @@ public class Song {
 			}
 			else return this.rank == Integer.parseInt(value);
 		else if (field.equals("artist"))
-			return this.artist.contains(value);
+			return this.artist.toLowerCase().contains(value.toLowerCase());
 		else if (field.equals("title"))
-			return this.title.contains(value);
+			return this.title.toLowerCase().contains(value.toLowerCase());
 		else
 			return false;
 	}
