@@ -314,7 +314,7 @@ public class GazillionSongsTests {
 				expectedLine = expected.nextLine();
 				actualLine = actual.nextLine();
 				
-				assertTrue("expected: " + expectedLine + "| acutal: " + actualLine, expectedLine.equals(actualLine));
+				assertTrue("expected: " + expectedLine + "| actual: " + actualLine, expectedLine.equals(actualLine));
 			}
 			
 			if(expected.hasNextLine())

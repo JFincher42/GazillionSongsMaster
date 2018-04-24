@@ -100,7 +100,7 @@ public class SongCollection {
 		while (nextLeft <= middle && nextRight <= to) {
 			// Find the lowest element, and copy it to temp
 			// We can simplify this a bit
-			if (orig.get(nextLeft).compareTo(orig.get(nextRight), field) <= 0)
+			if (orig.get(nextLeft).compareTo(orig.get(nextRight), field) < 0)
 				temp.set(nextMerge, orig.get(nextLeft++));
 			else
 				temp.set(nextMerge, orig.get(nextRight++));
