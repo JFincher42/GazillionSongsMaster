@@ -56,8 +56,13 @@ public class Song {
 		this.title = title;
 	}
 
-	// toString
+	/**
+	 * toString
+	 * 
+	 * Uses the same output format as input expected
+	 */
 	public String toString() {
+		// Need to start with an empty string since the first element is an int
 		return "" + this.year + "\t" + this.rank + "\t" + this.artist + "\t" + this.title;
 	}
 
@@ -67,9 +72,9 @@ public class Song {
 		else if (field.equals("rank"))
 			return this.rank - otherSong.getRank();
 		else if (field.equals("artist"))
-			return this.artist.compareTo(otherSong.getArtist());
+			return this.artist.toLowerCase().compareTo(otherSong.getArtist().toLowerCase());
 		else if (field.equals("title"))
-			return this.title.compareTo(otherSong.getTitle());
+			return this.title.toLowerCase().compareTo(otherSong.getTitle().toLowerCase());
 		else
 			return 0;
 	}
