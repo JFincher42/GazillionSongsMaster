@@ -42,5 +42,11 @@ public class Range {
 		return (value>=this.min && value<=this.max);
 	}
 	
+	public static boolean isValid(String rangeString){
+		if (rangeString.contains("-")) {
+			String[] extents = rangeString.split("-");
+			return (Integer.parseInt(extents[0]) <= Integer.parseInt(extents[1]));
+		} else return true;
+	}
 	
 }

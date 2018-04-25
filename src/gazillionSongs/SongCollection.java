@@ -10,12 +10,19 @@ import java.io.PrintStream;
  */
 public class SongCollection {
 
-	// Fields
-	private ArrayList<Song> songList; // The once and future song list
+	// THe once and future list o' songs
+	private ArrayList<Song> songList;
+
+	// What are valid fields?  Used for error checking
+	private ArrayList<String> validFields = new ArrayList<String>();
 
 	// Constructor
 	public SongCollection() {
 		songList = new ArrayList<Song>();
+		validFields.add("year");
+		validFields.add("rank");
+		validFields.add("artist");
+		validFields.add("title");
 	}
 
 	/**
@@ -36,47 +43,68 @@ public class SongCollection {
 		songList.add(new Song(year, rank, artist, title));
 	}
 
+	/**
+	 * filter - restricts the items in a list to those that fit a set criteria
+	 */
 	public boolean filter(String field, String data) {
-		for (int i = songList.size() - 1; i >= 0; i--) {
-			if (!songList.get(i).isMatch(field, data)) {
-				songList.remove(i);
+		// Check that the field and data are valid
+		if (validate(field, data)){
+			for (int i = songList.size() - 1; i >= 0; i--) {
+				if (!songList.get(i).isMatch(field, data)) {
+					songList.remove(i);
+				}
 			}
-		}
-		return true;
+			return true;
+		} else
+			return false;
 	}
 
 	public boolean selectionSort(String field) {
-		for (int i = 0; i < songList.size() - 1; i++) {
-			int minimum = i;
-			for (int j = i; j < songList.size(); j++) {
-				if (songList.get(j).compareTo(songList.get(minimum), field) < 0) {
-					minimum = j;
+		// Check that the field is valid
+		if (validFields.contains(field.toLowerCase())) {
+
+			for (int i = 0; i < songList.size() - 1; i++) {
+				int minimum = i;
+				for (int j = i; j < songList.size(); j++) {
+					if (songList.get(j).compareTo(songList.get(minimum), field) < 0) {
+						minimum = j;
+					}
 				}
+				swap(minimum, i);
 			}
-			swap(minimum, i);
-		}
-		return true;
+			return true;
+		} else
+			return false;
 	}
 
 	public boolean insertionSort(String field) {
-		for (int j = 1; j < songList.size(); j++) {
-			Song value = songList.get(j); // value is the next element to insert
-			int possibleIndex = j;
-			while (possibleIndex > 0 && value.compareTo(songList.get(possibleIndex - 1), field) < 0) {
-				songList.set(possibleIndex, songList.get(possibleIndex - 1));
-				possibleIndex--;
+		// Check that the field is valid
+		if (validFields.contains(field.toLowerCase())) {
+			for (int j = 1; j < songList.size(); j++) {
+				Song value = songList.get(j); // value is the next element to insert
+				int possibleIndex = j;
+				while (possibleIndex > 0 && value.compareTo(songList.get(possibleIndex - 1), field) < 0) {
+					songList.set(possibleIndex, songList.get(possibleIndex - 1));
+					possibleIndex--;
+				}
+				songList.set(possibleIndex, value); // put value in its place!
 			}
-			songList.set(possibleIndex, value); // put value in its place!
-		}
-		return true;
+			return true;
+		} else
+			return false;
 	}
 
 	public boolean mergeSort(String field) {
-		int n = songList.size();
-		ArrayList<Song> temp = new ArrayList<Song>(songList);
-		mergeSortX(songList, 0, n - 1, temp, field);
+		// Check that the field is valid
+		if (validFields.contains(field.toLowerCase())) {
 
-		return true;
+			int n = songList.size();
+			ArrayList<Song> temp = new ArrayList<Song>(songList);
+			mergeSortX(songList, 0, n - 1, temp, field);
+
+			return true;
+		} else
+			return false;
 	}
 
 	private void mergeSortX(ArrayList<Song> orig, int from, int to, ArrayList<Song> temp, String field) {
@@ -139,5 +167,12 @@ public class SongCollection {
 		Song temp = songList.get(i);
 		songList.set(i, songList.get(j));
 		songList.set(j, temp);
+	}
+
+	/**
+	 * validate - ensures the field and data are valid
+	 */
+	private boolean validate(String field, String data){
+		return (validFields.contains(field.toLowerCase())) && (Range.isValid(data));
 	}
 }

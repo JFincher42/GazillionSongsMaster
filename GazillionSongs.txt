@@ -7,7 +7,7 @@
 1957	315	Frank Sinatra	Your Love For Me
 1978	302	John Denver	I Want To Live
 1954	304	Stan Kenton & His Orchestra	The Creep
-1993	199	Expos�	As Long As I Can Dream
+1993	199	Expose	As Long As I Can Dream
 1989	269	House Of Lords	I Wanna Be Loved
 1950	267	Benny Goodman Sextet	Oh, Babe!
 1948	295	Tex Williams & The Western Caravan	Suspicion
@@ -26,7 +26,7 @@
 1929	87	Ben Selvin & His Orchestra	I Wanna be Loved By You
 1905	34	Prince's Orchestra	Coax Me Medley
 1980	135	Stacy Lattisaw	Let Me Be Your Angel
-1981	359	Sad Caf�	La-Di-Da
+1981	359	Sad Cafe	La-Di-Da
 1977	327	Starz	Sing It, Shout It
 1977	313	Bruce Foster	Platinum Heroes
 1966	573	Turtles, The	Grim Reaper Of Love
@@ -65,7 +65,7 @@
 1965	121	Glenn Yarbrough	Baby The Rain Must Fall
 1991	26	Londonbeat	I've Been Thinking About You
 1965	363	Honeycombs, The	I Can't Stop
-1992	129	Expos�	I Wish The Phone Would Ring
+1992	129	Expose	I Wish The Phone Would Ring
 1905	81	Billy Murray	Tammany
 1939	298	Bing Crosby	God Bless America
 1897	6	Len Spencer	Oh, Mr. Johnson, Turn Me Loose
@@ -292,7 +292,7 @@
 1998	240	Pure Sugar	Delicious
 1942	189	Jimmy Dorsey & His Orchestra	Sorghum Switch
 1983	342	Missing Persons	Walking In L.A.
-1998	24	98�	Because Of You
+1998	24	98e	Because Of You
 1940	139	Kay Kyser & His Orchestra	You've Got Me This Way
 1922	83	Paul Whiteman & His Orchestra	Old-Fashioned Girl
 1955	39	McGuire Sisters, The	Something's Gotta Give
@@ -674,7 +674,7 @@
 1930	55	Ben Selvin & His Orchestra	Dancing with Tears in My Eyes
 1947	303	Julia Lee & Her Boy Friends	My Sin
 2002	273	Remy Shand	Take A Message
-2002	106	Tracy Byrd	Ten Rounds With Jos� Cuervo
+2002	106	Tracy Byrd	Ten Rounds With Jose Cuervo
 1964	599	Clyde McPhatter	Deep In The Heart Of Harlem
 1965	114	Barbara Lewis	Make Me Your Baby
 1935	245	Fats Waller	Honeysuckle Rose
@@ -868,7 +868,7 @@
 1946	136	Harry James & His Orchestra	This is Always
 1962	87	Shirelles, The	Baby It's You
 1983	451	Kenny Rogers	Scarlet Fever
-1990	226	Tony! Toni! Ton�!	The Blues
+1990	226	Tony! Toni! Tone!	The Blues
 1925	134	Irving Kaufman	Oh How I Miss You Tonight
 1929	75	Melody Three	My Song of the Nile
 1998	62	Busta Rhymes	Turn It Up (Remix)/Fire It Up'
@@ -1069,7 +1069,7 @@
 1918	119	Sam Ash	I'm Always Chasing Rainbows
 1964	411	Ray Conniff	Invisible Tears
 1921	40	Frank Crumit	I'm a Lonesome Little Raindrop
-1999	74	98�	I Do (Cherish You)
+1999	74	98e	I Do (Cherish You)
 1932	204	Louis Armstrong	Shine
 1998	155	Jo Dee Messina	I'm Alright
 1922	41	Ray Miller & His Orchestra	I'm Just Wild About Harry
@@ -2123,7 +2123,7 @@
 1974	17	Al Wilson	Show And Tell
 1957	136	Platters, The	He's Mine
 1935	83	Hal Kemp & His Orchestra	Thrilled
-1962	368	Jack Ross	Happy Jos� (Ching-Ching)
+1962	368	Jack Ross	Happy Jose (Ching-Ching)
 1982	316	Survivor	Summer Nights
 1962	282	Angels, The	Cry Baby Cry
 1942	261	McFarland Twins	Hey, Zeke!
@@ -3076,7 +3076,7 @@
 1921	3	Paul Whiteman & His Orchestra	Cherie
 1960	99	Paul Anka	Summer's Gone
 1940	130	Kay Kyser & His Orchestra	Friendship
-1990	166	M�tley Cr�e	Kickstart My Heart
+1990	166	Metley Cree	Kickstart My Heart
 2002	177	Phil Vassar	American Child
 1964	373	Betty Everett	You're No Good
 1957	457	Carmen McRae	Skyliner
@@ -3623,7 +3623,7 @@
 1935	81	Freddy Martin & His Orchestra	I Couldn't Believe My Eyes
 1986	5	Huey Lewis & The News	Stuck With You
 1964	139	Lesley Gore	Maybe I Know
-1999	299	Sherri� Austin	Never Been Kissed
+1999	299	Sherrie Austin	Never Been Kissed
 1948	68	Gordon MacRae	It's Magic
 1969	643	Nancy Sinatra	God Knows I Love You
 1956	352	Don Cherry	Namely You
@@ -4169,7 +4169,7 @@
 1960	194	Johnny Ferguson	Angela Jones
 1962	133	Eddie Hodges	(Girls, Girls, Girls) Made To Love
 1949	84	Ralph Flanagan & His Orchestra	Don't Cry, Joe (Let Her Go, Let Her Go, Let Her Go)
-1976	99	Blue �yster Cult	(Don't Fear) The Reaper
+1976	99	Blue eyster Cult	(Don't Fear) The Reaper
 1930	20	Ted Lewis & His Band	On the Sunny Side of the Street
 1930	134	Ben Bernie & His Orchestra	Crying for the Carolines
 1932	22	Ted Black & His Orchestra	In a Shanty in Old Shanty Town
@@ -4408,7 +4408,7 @@
 1971	364	Al Green	I Can't Get Next To You
 1971	125	Grass Roots, The	Temptation Eyes
 1966	55	Frank Sinatra	That's Life
-1988	230	Tony! Toni! Ton�!	Little Walter
+1988	230	Tony! Toni! Tone!	Little Walter
 1956	298	Guy Mitchell	Crazy With Love
 1979	452	Keith Herman	She's Got A Whole Number
 1995	17	Boyz II Men	Water Runs Dry
@@ -4430,7 +4430,7 @@
 1989	190	Bangles	Be With You
 1964	368	Chubby Checker	She Wants T'Swim
 1956	272	Elvis Presley	Old Shep
-1987	359	M�tley Cr�e	All I Need
+1987	359	Metley Cree	All I Need
 1908	55	Len Spencer & Ada Jones	Jimmie and Maggie at The Merry Widow
 1989	253	Chicago	We Can Last Forever
 1995	202	Heavy D & The Boyz	Black Coffee
@@ -5035,7 +5035,7 @@
 1984	329	Freddie Mercury	Love Kills
 1995	136	Goodie Mob	Cell Therapy
 1947	115	Gene Autry	Here Comes Santa Claus (Down Santa Claus Lane)
-1985	132	M�tley Cr�e	Smokin' In The Boys Room
+1985	132	Metley Cree	Smokin' In The Boys Room
 1940	199	Glenn Miller & His Orchestra	Beat Me, Daddy (Eight To The Bar)
 1968	238	Jackie Wilson	I Get The Sweetest Feeling
 1959	99	Tommy Edwards	Please Mr. Sun
@@ -7238,7 +7238,7 @@
 1980	179	Linda Ronstadt	I Can't Let Go
 2000	67	Profyle	Liar
 1976	294	Jermaine Jackson	Let's Be Young Tonight
-1958	313	Augie Rios	�D�nde Est� Santa Claus (Where Is Santa Claus)
+1958	313	Augie Rios	eDende Este Santa Claus (Where Is Santa Claus)
 1991	217	Bad English	Straight To Your Heart
 1954	118	Teresa Brewer	Bell Bottom Blues
 1938	159	Leo Reisman & His Orchestra	In the Still of the Night
@@ -7452,7 +7452,7 @@
 1953	99	Vic Damone	Sugar
 1940	162	Gene Krupa & His Orchestra	Boog It
 1931	208	Duke Ellington & His Famous Orchestra	Rockin' in Rhythm
-1983	307	Talking Heads	This Must Be The Place (Na�ve Melody)
+1983	307	Talking Heads	This Must Be The Place (Naeve Melody)
 1991	327	Donna Summer	When Love Cries
 1935	208	Ray Noble & His Orchestra	The Piccolino
 2002	259	Benzino	Rock The Party
@@ -7745,7 +7745,7 @@
 1954	257	Sunny Gale	Goodnight, Sweetheart, Goodnight
 1987	213	Toto	Without Your Love
 1960	284	Dee Clark	You're Looking Good
-1991	235	Tony! Toni! Ton�!	Whatever You Want
+1991	235	Tony! Toni! Tone!	Whatever You Want
 1985	80	Tina Turner	Private Dancer
 2000	260	Terri Clark	A Little Gasoline
 2006	66	Cascada	Everytime We Touch
@@ -7990,7 +7990,7 @@
 1944	27	Jimmy Dorsey & His Orchestra	Star Eyes
 1973	128	Loudon Wainwright III	Dead Skunk
 1936	293	Cab Calloway & His Orchestra	You're the Cure for What Ails Me
-1980	298	Lenore O'Malley	First� Be A Woman
+1980	298	Lenore O'Malley	Firste Be A Woman
 1991	382	Gary Moore	Still Got The Blues
 1972	407	Petula Clark	My Guy
 1949	245	Spike Jones & His City Slickers	Ya Wanna Buy a Bunny?
@@ -8919,7 +8919,7 @@
 1963	430	Vito and the Salutations	Unchained Melody
 1953	383	Chris Martin	Six Buzzard Feathers and a Mocking Bird's Tail
 1912	102	Arthur Collins & Byron Harlan	That Precious Little Thing Called Love (The Riddle Song)
-1991	185	Tony! Toni! Ton�!	It Never Rains (In Southern California)
+1991	185	Tony! Toni! Tone!	It Never Rains (In Southern California)
 1979	34	Frank Mills	Music Box Dancer
 1999	77	Tal Bachman	She's So High
 1977	137	England Dan and John Ford Coley	It's Sad To Belong
@@ -9155,7 +9155,7 @@
 1970	391	Led Zeppelin	Living Loving Maid (She's Just a Woman)
 1934	230	Guy Lombardo & His Royal Canadians	Stay as Sweet as You Are
 1962	297	Linda Scott	Count Every Star
-1993	54	Tony! Toni! Ton�!	Anniversary
+1993	54	Tony! Toni! Tone!	Anniversary
 1973	446	Mystic Moods, The	Cosmic Sea
 1976	402	Sun	Wanna Make Love (Come Flick My BIC)
 1989	113	Waterfront	Cry
@@ -10580,7 +10580,7 @@
 1928	206	Johnny Marvin	Give Me a Night in June
 1963	656	Baby Washington	Hey Lonely One
 2007	248	Hannah Montana	Make Some Noise
-1984	403	Blue �yster Cult	Shooting Shark
+1984	403	Blue eyster Cult	Shooting Shark
 1986	316	Feargal Sharkey	A Good Heart
 1905	43	Richard Jose	When I'm Away from You, Dear
 1998	31	All Saints	Never Ever
@@ -10986,7 +10986,7 @@
 2003	57	Wayne Wonder	No Letting Go
 1981	291	Icehouse	We Can Get Together
 1997	324	Gyrl	Get Your Groove On
-1999	199	98�	This Gift
+1999	199	98e	This Gift
 1966	164	Surfaris, The	Wipe Out
 1972	512	Janis Joplin	Down On Me
 1975	206	Guess Who, The	Dancin' Fool
@@ -11199,7 +11199,7 @@
 1916	73	Maggie Teyte	A Little Love, a Little Kiss
 1937	320	Bing Crosby	(You Know it All) Smarty
 1966	271	Sandpipers, The	Louie, Louie
-1957	135	Will Glah� and His Orchestra	Liechtensteiner Polka
+1957	135	Will Glahe and His Orchestra	Liechtensteiner Polka
 1965	13	Rolling Stones, The	Get Off Of My Cloud
 1968	405	Clarence Carter	Looking For A Fox
 2005	232	Keith Anderson	Pickin' Wildflowers
@@ -11554,7 +11554,7 @@
 1996	179	K-Ci & JoJo	How Could You
 1973	367	Ripple	I Don't Know What It Is, But It Sure Is Funky
 1966	18	Beatles, The	Paperback Writer
-2007	353	Fall Out Boy	I'm Like A Lawyer�(Me & You)
+2007	353	Fall Out Boy	I'm Like A Lawyere(Me & You)
 1940	91	Jan Savitt & His Orchestra	Make Believe Island
 1987	328	Bananarama	A Trick Of The Night
 1960	146	Elvis Presley	I Gotta Know
@@ -11639,7 +11639,7 @@
 1938	300	Louis Armstrong	Going to Shout All Over God's Heaven
 1966	190	Knickerbockers, The	Lies
 1978	226	Chic	Everybody Dance
-2004	195	Beyonc�	Dangerously In Love
+2004	195	Beyonce	Dangerously In Love
 1954	310	Dinah Shore	Pass the Jam, Sam
 1959	576	Sammy Turner	Sweet Annie Laurie
 1948	238	Patti Page & Vic Damone	Say Something Sweet to Your Sweetheart
@@ -11774,7 +11774,7 @@
 1970	555	Little Anthony and the Imperials	Help Me Find A Way (To Say I Love You)
 1976	417	Donna Summer	Try Me, I Know We Can Make It
 2006	154	Kenny Chesney	You Save Me
-2001	147	98�	My Everything
+2001	147	98e	My Everything
 1977	466	Salsoul Orchestra	Ritzy Mambo
 1985	56	Phil Collins	Don't Lose My Number
 2007	262	High School Musical 2 Cast	What Time Is It
@@ -11863,7 +11863,7 @@
 1959	523	Ralph DeMarco	Old Shep
 1970	201	Bobbie Gentry	Fancy
 1964	53	Shangri-Las, The	Remember (Walkin' In The Sand)
-1987	64	Expos�	Come Go With Me
+1987	64	Expose	Come Go With Me
 1978	25	Barry Manilow	Can't Smile Without You
 1982	182	Genesis	Paperlate
 1928	138	Ipana Troubadors	S'Wonderful
@@ -12441,7 +12441,7 @@
 2006	244	Lucas Gabreel & Ashley Tisdale	Bop To The Top
 1982	200	Tane Cain	Holdin' On
 1986	375	Talk Talk	Life's What You Make It
-1989	97	Expos�	What You Don't Know
+1989	97	Expose	What You Don't Know
 1942	198	Dick Jurgens & His Orchestra	How About You?
 1932	99	Guy Lombardo & His Royal Canadians	I'm Sure of Everything but You
 1903	41	Mina Hickman	Congo Love Song
@@ -12649,7 +12649,7 @@
 1961	666	Della Reese	Won'cha Come Home, Bill Bailey
 1992	105	Ce Ce Peniston	We Got A Love Thang
 1934	238	Eddy Duchin & His Orchestra	May I?
-1997	90	Tony! Toni! Ton�!	Thinking Of You
+1997	90	Tony! Toni! Tone!	Thinking Of You
 1981	313	Stars On 45	Medley II (Medley)
 1970	500	Little Richard	Greenwood Mississippi
 1937	7	Shep Fields & His Rippling Rhythm Orchestra	That Old Feeling
@@ -14014,7 +14014,7 @@
 1961	604	Velvets, The	Laugh
 1969	253	Andy Kim	So Good Together
 1993	278	Sade	Kiss Of Life
-1967	717	Left Banke, The	Desire�
+1967	717	Left Banke, The	Desiree
 1989	350	Easterhouse	Come Out Fighting
 1966	40	Bob Dylan	Rainy Day Women #12 And 35
 1980	393	B-52's, The	Private Idaho
@@ -14545,7 +14545,7 @@
 1941	191	Glenn Miller & His Orchestra	I Know Why
 1967	2	Monkees, The	Daydream Believer
 1967	724	Ray Charles	I Want To Talk About You
-1987	71	Expos�	Point Of No Return
+1987	71	Expose	Point Of No Return
 1949	281	Buddy Kaye Quintet	A - You're Adorable (The Alphabet Song)
 1983	168	Thompson Twins	Lies
 1962	498	Benny Spellman	Lipstick Traces (On A Cigarette)
@@ -14595,7 +14595,7 @@
 1988	106	New Kids On The Block	Please Don't Go Girl
 1945	9	Harry James & His Orchestra	It's Been a Long, Long Time
 1955	148	Julius LaRosa	Suddenly There's A Valley
-1974	297	C. W. McCall	The Old Home Filler-Up An Keep On-A-Truckin Caf�
+1974	297	C. W. McCall	The Old Home Filler-Up An Keep On-A-Truckin Cafe
 1970	531	Gene Pitney	She Lets Her Hair Down (Early In The Morning)
 1977	4	Bee Gees	How Deep Is Your Love
 1921	77	Carl Fenton & His Orchestra	Rosie
@@ -15769,7 +15769,7 @@
 1943	21	Frank Sinatra	You'll Never Know
 1965	664	Sam and Bill	For Your Love
 1978	431	David Castle	The Loneliest Man On The Moon
-1979	383	Sad Caf�	Run Home Girl
+1979	383	Sad Cafe	Run Home Girl
 1971	395	Laying Martine	Rub It In
 1975	221	AWB	School Boy Crush
 1979	211	Electric Light Orchestra	Confusion
@@ -16064,7 +16064,7 @@
 1976	46	Captain and Tennille	Muskrat Love
 1964	440	Raindrops, The	Book Of Love
 1912	13	Arthur Collins & Byron Harlan	Everybody's Doing it Now
-1987	121	M�tley Cr�e	Girls, Girls, Girls
+1987	121	Metley Cree	Girls, Girls, Girls
 1942	253	Erskine Hawkins & His Orchestra	Wrap Your Troubles in Dreams
 1966	674	O'Jays, The	Stand In For Love
 1911	26	American Quartet	Some of These Days
@@ -16565,7 +16565,7 @@
 1976	183	KISS	Shout It Out Loud (Studio)
 1952	45	Bobby Wayne	Wheel of Fortune
 1921	124	Nora Bayes	Why Worry?
-2007	393	Justin Timberlake	What Goes Around�Comes Around
+2007	393	Justin Timberlake	What Goes AroundeComes Around
 1949	299	Julia Lee & Her Boy Friends	I Didn't Like it the First Time
 1957	243	Mills Brothers	Queen Of The Senior Prom
 1993	330	Belly	Feed The Tree
@@ -16807,7 +16807,7 @@
 1957	387	Frank Sinatra	So Long, My Love
 1948	211	John Laurenz	Hair of Gold (Eyes of Blue)
 1960	239	Jack Scott	Oh, Little One
-1991	289	M�tley Cr�e	Primal Scream
+1991	289	Metley Cree	Primal Scream
 1933	187	Gus Arnheim & His Orchestra	Love is a Dream
 1994	52	Jon Secada	If You Go
 1958	471	Playmates, The	Let's Be Lovers
@@ -17330,7 +17330,7 @@
 2005	275	Big & Rich	Holy Water
 1991	225	Cinderella	Heartbreak Station
 1943	40	Dick Kuhn & His Orchestra	Put Your Arms Around Me Honey
-2000	306	Damizza Presents Shade Sheist�	Where I Wanna Be
+2000	306	Damizza Presents Shade Sheiste	Where I Wanna Be
 1978	271	Johnny Mathis	You're All I Need To Get By
 1985	93	Billy Joel	You're Only Human (Second Wind)
 1929	245	Ethel Waters	Birmingham Bertha
@@ -18415,7 +18415,7 @@
 1914	77	John McCormack	Good-Bye
 1995	121	Xscape	Feels So Good
 1965	574	Kids Next Door, The	Inky Dinky Spider (The Spider Song)
-1985	134	Godley & Cr�me	Cry
+1985	134	Godley & Creme	Cry
 1934	51	Eddy Duchin & His Orchestra	I've Had My Moments
 1984	256	Yes	It Can Happen
 1967	595	Eddy Arnold	Lonely Again
@@ -18906,7 +18906,7 @@
 1932	209	Fred Waring's Pennsylvanians	With Summer Coming On
 1935	100	Bing Crosby	I Wish I Were Aladdin
 1949	3	Russ Morgan & His Orchestra	Cruising Down the River
-1990	142	M�tley Cr�e	Don't Go Away Mad (Just Go Away)
+1990	142	Metley Cree	Don't Go Away Mad (Just Go Away)
 1948	262	Nellie Lutcher & Her Rhythm	The Song is Ended (But the Melody Lingers On)
 1975	167	America	Daisy Jane
 1955	124	Eddie Fisher	A Man Chases A Girl (Until She Catches Him)
@@ -18968,7 +18968,7 @@
 1924	25	Dolly Kay	Hard-Hearted Hannah
 2006	317	Nick Lachey	I Can't Hate You Anymore
 1966	720	Connie Francis	Spanish Nights And You
-1994	120	Tony! Toni! Ton�!	(Lay Your Head On My) Pillow
+1994	120	Tony! Toni! Tone!	(Lay Your Head On My) Pillow
 1999	122	R. Kelly	Did You Ever Think
 1979	333	Engelbert Humperdinck	This Moment In Time
 1988	29	UB40	Red Red Wine '88
@@ -19310,7 +19310,7 @@
 1970	559	Elton John	Border Song
 1998	177	S.O.A.P.	This Is How We Party
 1967	245	Four Seasons, The	Watch The Flowers Grow
-1984	262	M�tley Cr�e	Looks That Kill
+1984	262	Metley Cree	Looks That Kill
 1981	68	Dan Fogelberg	Same Old Lang Syne
 1927	188	Carl Fenton & His Orchestra	The Same Old Moon
 1982	130	Gary U.S. Bonds	Out Of Work
@@ -19711,7 +19711,7 @@
 1964	485	P.J. Proby	Hold Me
 1969	354	Four Tops	What Is A Man
 2000	115	Mariah Carey	Crybaby
-1981	356	Spyro Gyra	Caf� Amore
+1981	356	Spyro Gyra	Cafe Amore
 1967	714	Gladys Knight and the Pips	Take Me In Your Arms And Love Me
 1923	137	Billy Murray	Cut Yourself a Piece of Cake
 2003	101	Lonestar	My Front Porch Looking In
@@ -21066,7 +21066,7 @@
 1967	280	Frankie Laine	Making Memories
 1968	490	Nancy Sinatra	Happy
 1939	249	Jack Teagarden & His Orchestra	The Sheik of Araby
-1987	84	Expos�	Let Me Be The One
+1987	84	Expose	Let Me Be The One
 1977	106	Little River Band	Help Is On Its Way
 1984	427	Talk Talk	Such A Shame
 1979	445	Kate Bush	The Man With The Child In His Eyes
@@ -21136,7 +21136,7 @@
 1968	608	Dino, Desi and Billy	Tell Someone You Love Them
 1972	311	John Kay	I'm Movin' On
 1957	331	Johnny Desmond	A White Sport Coat (And A Pink Carnation)
-1977	174	Carole King	Hard Rock Caf�
+1977	174	Carole King	Hard Rock Cafe
 1935	145	Jimmie Lunceford & His Orchestra	Star Dust
 2005	273	Mary J. Blige	Da MVP
 1973	456	Don Fardon	Delta Queen
@@ -23047,7 +23047,7 @@
 1907	41	Cal Stewart	The Wedding of Uncle Josh and Aunt Nancy Smith (new version)
 1975	355	Anne Murray	Day Tripper
 1945	196	Mills Brothers	Put Another Chair at the Table
-1984	429	M�tley Cr�e	Too Young To Fall In Love
+1984	429	Metley Cree	Too Young To Fall In Love
 1937	78	Wayne King & His Orchestra	Trust in Me
 1988	345	Teena Marie	Ooo La La La
 1974	459	Tex Ritter	The Americans (A Canadian's Opinion)
@@ -23275,7 +23275,7 @@
 1964	133	Andy Williams	A Fool Never Learns
 2003	87	Ataris, The	The Boys Of Summer
 2002	59	Justin Timberlake	Like I Love You
-1990	327	M�tley Cr�e	Same Ol' Situation (S.O.S.)
+1990	327	Metley Cree	Same Ol' Situation (S.O.S.)
 1940	25	Bob Crosby & His Orchestra	With the Wind and the Rain in Your Hair
 1934	41	Enric Madriguera & His Orchestra	True
 1946	65	Dinah Shore	Shoo-Fly Pie And Apple Pan Dowdy
@@ -23471,7 +23471,7 @@
 1982	42	Joe Jackson	Steppin' Out
 1980	211	Cars, The	Touch And Go
 1991	216	Too Short	The Ghetto
-1993	40	Tony! Toni! Ton�!	If I Had No Loot
+1993	40	Tony! Toni! Tone!	If I Had No Loot
 1983	297	Wham!	Bad Boys
 1974	71	Ringo Starr	Oh My My
 1968	340	Dave Dee, Dozy, Beaky, Mick and Tich	Zabadak
@@ -24479,7 +24479,7 @@
 1937	163	Henry Allen & His Orchestra	When My Dream Boat Comes Home
 1958	250	Nat King Cole	Angel Smile
 1970	46	Brook Benton	Rainy Night In Georgia
-1973	230	Carole King	Coraz�n
+1973	230	Carole King	Corazen
 1991	247	David Hallyday	Ooh La La
 1966	673	Beau Brummels, The	One Too Many Mornings
 1953	29	Eddie Fisher	Many Times
@@ -24782,7 +24782,7 @@
 1895	8	Len Spencer	Little Alabama Coon
 1968	298	Lettermen, The	Put Your Head On My Shoulder
 1949	287	Jan Garber & His Orchestra	Bella Bella Marie
-1990	2	Sin�ad O'Connor	Nothing Compares 2 U
+1990	2	Sinead O'Connor	Nothing Compares 2 U
 1965	649	Four Tops	Ain't That Love
 1989	242	Queen	I Want It All
 1938	34	Seven Dwarfs	Whistle While You Work
@@ -24926,7 +24926,7 @@
 2001	254	Darryl Worley	A Good Day To Run
 1967	164	Rose Garden, The	Next Plane To London
 1978	276	Firefall	So Long
-1997	264	Ultra Nat�	Free
+1997	264	Ultra Nate	Free
 1919	10	Bert Williams	It's Nobody's Business but My Own
 1934	231	Grace Moore	Ciribiribin
 1958	25	Four Preps, The	26 Miles (Santa Catalina)
@@ -25125,7 +25125,7 @@
 1985	342	Roman Holliday	One Foot Back In Your Door
 1921	154	Anthony Urato	They Needed a Song Bird in Heaven (So God Took Caruso Away)
 2001	238	Joe	Let's Stay Home Tonight
-1997	61	98�	Invisible Man
+1997	61	98e	Invisible Man
 1937	364	Alice Faye	There's a Lull in My Life
 1971	92	Brewer and Shipley	One Toke Over The Line
 1999	50	Blaque	808
@@ -27211,12 +27211,12 @@
 1999	35	Backstreet Boys, The	All I Have To Give
 1970	107	Originals, The	The Bells
 1961	195	Maxine Brown	Funny
-1955	221	Robins, The	Smokey Joe's Caf�
+1955	221	Robins, The	Smokey Joe's Cafe
 1997	146	Westside Connection	Gangstas Make The World Go Round
 1964	403	Bobby Freeman	S-W-I-M
 1905	79	Arthur Collins & Byron Harlan	In My Merry Oldsmobile
 1985	125	Chicago	Along Comes A Woman
-1990	100	Expos�	Tell Me Why
+1990	100	Expose	Tell Me Why
 1892	18	J.W. Myers	Sing Those Pretty Songs Again
 1973	382	Dawn	You're A Lady
 1968	591	Bill Cosby	Funky North Philly
@@ -27381,7 +27381,7 @@
 1968	536	Johnny Adams	Release Me
 1988	169	Barbra Streisand	Till I Loved You
 1956	254	Little Richard	Ready Teddy
-1989	81	M�tley Cr�e	Dr. Feelgood
+1989	81	Metley Cree	Dr. Feelgood
 1983	316	Janet Jackson	Young Love
 1941	62	Glenn Miller & His Orchestra	Jingle Bells
 1989	111	Animotion	Room To Move
@@ -27562,7 +27562,7 @@
 1956	4	Gogi Grant	The Wayward Wind
 2006	232	Avenged Sevenfold	Bat Country
 1957	50	Ricky Nelson	I'm Walking
-1994	285	Expos�	In Walked Love
+1994	285	Expose	In Walked Love
 1986	218	Dan Seals	Bop
 1975	215	Ringo Starr	It's All Down To Goodnight Vienna
 1959	512	Patti Page	Goodbye Charlie
@@ -28016,7 +28016,7 @@
 1976	424	Tom Scott	Uptown & Country
 1987	365	Julian Cope	World Shut Your Mouth
 1937	168	Ted Fio Rito & His Orchestra	Tomorrow is Another Day
-1992	170	M�tley Cr�e	Home Sweet Home '91
+1992	170	Metley Cree	Home Sweet Home '91
 1970	307	Doors, The	You Make Me Real
 1978	156	Commodores	Too Hot Ta Trot
 1947	41	Pied Pipers	Mam'selle
@@ -28561,7 +28561,7 @@
 1917	80	James F. Harrison & James Reed	Hawaii and You
 1937	143	Teddy Wilson & His Orchestra (Vocal Billie Holiday)	The Mood That I'm In
 1976	326	Isley Brothers, The	Harvest For The World
-1958	482	Will Glah� and His Orchestra	Sweet Elizabeth
+1958	482	Will Glahe and His Orchestra	Sweet Elizabeth
 1989	232	Huey Lewis & The News	Give Me The Keys (And I'll Drive You Crazy)
 1922	146	Billy Murray & Ed Smalle	Ten Little Fingers and Ten Little Toes (Down in Tennessee)
 1973	222	Intruders, The	I'll Always Love My Mama (Part 1)
@@ -28787,7 +28787,7 @@
 1951	286	Johnny Hodges & His Orchestra	Castle Rock
 1981	81	Four Tops	When She Was My Girl
 2006	273	Jagged Edge	Good Luck Charm
-1985	392	M�tley Cr�e	Home Sweet Home
+1985	392	Metley Cree	Home Sweet Home
 2002	223	Audioslave	Cochise
 1985	349	Stephanie Mills	Bit By Bit
 1970	53	Edison Lighthouse	Love Grows (Where My Rosemary Goes)
@@ -29226,7 +29226,7 @@
 1974	268	Alice Cooper	Teenage Lament '74
 1977	139	Boston	Long Time
 1987	166	Eddie Money	Endless Nights
-2000	23	98�	Give Me Just One Night (Una Noche)
+2000	23	98e	Give Me Just One Night (Una Noche)
 1948	216	Larry Clinton & His Orchestra	The Dickey-Bird Song
 1945	73	Xavier Cugat & His Waldorf-Astoria Orchestra	Good, Good, Good (That's You-That's You)
 1915	11	James F. Harrison & James Reed	My Little Dream Girl
@@ -29604,7 +29604,7 @@
 1962	532	Etta James	Fools Rush In
 1952	79	Hugo Winterhalter & His Orchestra	A Kiss To Build A Dream On
 1971	546	Mac Davis	Beginning To Feel The Pain
-1981	205	Blue �yster Cult	Burnin' For You
+1981	205	Blue eyster Cult	Burnin' For You
 1913	108	Billy Murray & Helen Clark	Come on Over Here
 2008	89	Panic At The Disco	Nine In The Afternoon
 1993	133	George Michael	Somebody To Love
@@ -31064,7 +31064,7 @@
 2005	80	Mariah Carey	It's Like That
 2007	149	Dashboard Confessional	Stolen
 1960	507	Jamie Horton	My Little Marine
-1989	114	Expos�	When I Looked At Him
+1989	114	Expose	When I Looked At Him
 1930	189	Ben Pollack & His Orchestra	Rollin' Down the River
 1970	619	Ray Charles	Laughin' And Clownin'
 1973	364	Carole King	You Light Up My Life
@@ -31394,7 +31394,7 @@
 1963	512	Patsy Cline	Leavin' On Your Mind
 1930	19	Isham Jones & His Orchestra	What's the Use?
 1973	280	Peter Skellern	You're A Lady
-1990	90	M�tley Cr�e	Without You
+1990	90	Metley Cree	Without You
 1984	7	Stevie Wonder	I Just Called To Say I Love You
 1936	146	Ted Weems & His Orchestra	Knock! Knock! Who's There
 1942	249	Bob Crosby & His Orchestra	Barrelhouse Bessie from Basin Street
@@ -31443,7 +31443,7 @@
 1939	44	Red Norvo & His Orchestra	I Get Along Without You Very Well
 1969	63	Temptations, The	Run Away Child, Running Wild
 1920	55	John McCormack	When Night Descends
-1993	48	Expos�	I'll Never Get Over You (Getting Over Me)
+1993	48	Expose	I'll Never Get Over You (Getting Over Me)
 1966	462	Bobby Bland	I'm Too Far Gone (To Turn Around)
 1908	89	Byron G. Harlan	Are You Sincere?
 1979	85	Olivia Newton-John	Deeper Than The Night
@@ -32155,7 +32155,7 @@
 1947	108	Frankie Carle & His Orchestra	Roses in the Rain
 1983	140	J. Geils Band	I Do
 1990	231	Skyy	Real Love
-1990	95	Tony! Toni! Ton�!	Feels Good
+1990	95	Tony! Toni! Tone!	Feels Good
 1954	358	Tommy Prisco	Friends and Neighbors
 1975	226	Billy Crash Craddock	Ruby, Baby
 1967	422	Marlena Shaw	Mercy, Mercy, Mercy
@@ -34287,7 +34287,7 @@
 1963	18	Tymes, The	So Much In Love
 1990	343	Great White	House Of Broken Love
 1922	66	Van & Schenck	California
-1990	137	Expos�	Your Baby Never Looked Good In Blue
+1990	137	Expose	Your Baby Never Looked Good In Blue
 1966	656	Jackie Wilson	Think Twice
 1930	48	Earl Burtnett & His Los Angeles Biltmore Hotel Orchestra	Little White Lies
 1963	632	Shirelles, The	31 Flavors
@@ -34315,7 +34315,7 @@
 1960	255	Wanda Jackson	Let's Have A Party
 1941	51	Bing Crosby	Along The Santa Fe Trail
 1935	198	Duke Ellington & His Famous Orchestra	In a Sentimental Mood
-1988	22	Expos�	Seasons Change
+1988	22	Expose	Seasons Change
 1942	10	Benny Goodman & His Orchestra (Vocal Peggy Lee)	Somebody Else Is Taking My Place
 1976	450	South Shore Commission	Train Called Freedom
 1983	65	Prince	Delirious
@@ -34841,7 +34841,7 @@
 1973	291	Led Zeppelin	Over The Hills And Far Away
 1997	60	Gina G	Ooh Aah.. Just A Little Bit
 1972	472	Carlos Santana	Evil Ways
-2003	4	Beyonc�	Crazy In Love
+2003	4	Beyonce	Crazy In Love
 1975	251	Travis Wammack	(Shu-Doo-Pa-Poo-Poop) Love Being Your Fool
 1993	222	Cathy Dennis	Irresistible
 1978	149	Gene Cotton	Before My Heart Finds Out
@@ -35494,7 +35494,7 @@
 1967	242	Wilson Pickett	Everybody Needs Somebody To Love
 1991	269	KLF, The	What Time Is Love?
 1956	157	Shirley and Lee	Let The Good Times Roll
-2003	3	Beyonc�	Baby Boy
+2003	3	Beyonce	Baby Boy
 1909	96	Nat Wills	The Traveling Man
 1974	182	Tower Of Power	Don't Change Horses (In The Middle Of A Stream)
 1916	121	Conway's Band	Have a Heart - Ziegfeld Follies of 1915 Medley
@@ -35890,7 +35890,7 @@
 1935	153	Leo Reisman & His Orchestra	Lovely to Look At
 1952	306	Frank Sinatra	Azure-Te (Paris Blues)
 1991	239	Sandee	Love Desire
-1999	38	98�	The Hardest Thing
+1999	38	98e	The Hardest Thing
 1936	184	Rudy Vallee & His Connecticut Yankees	There's Always a Happy Ending
 1978	337	K.C and the Sunshine Band	Do You Feel All Right
 1951	247	Don Cherry	Belle, Belle, My Liberty Belle
@@ -36207,7 +36207,7 @@
 1993	75	Go West	Faithful
 1978	424	Loleatta Holloway	Only You
 1969	70	Edwin Starr	Twenty-Five Miles
-1979	397	Blue �yster Cult	In Thee
+1979	397	Blue eyster Cult	In Thee
 1961	258	Johnny Maestro	What A Surprise
 1994	248	Ovis	Regular Thang
 1953	258	Art Lund	Crying in the Chapel
@@ -36269,7 +36269,7 @@
 1968	650	Patti Page	Little Green Apples
 1931	126	Abe Lyman & His California Orchestra	Give Me Your Affection, Honey
 1917	139	Arthur Fields	What Kind of American Are You?
-1994	276	Tony! Toni! Ton�!	Leavin'
+1994	276	Tony! Toni! Tone!	Leavin'
 1936	22	Guy Lombardo & His Royal Canadians	Lost
 1914	91	Fred Van Eps	The Original Fox Trot
 1961	600	Chordettes, The	Faraway Star

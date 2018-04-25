@@ -10,10 +10,10 @@ package gazillionSongs;
 public class Song {
 
 	// Fields
-	private int year; // The year the song was releases
-	private int rank; // What rank the song reached
-	private String artist; // Who is the artist
-	private String title; // Song title
+	private int year; 			// The year the song was releases
+	private int rank; 			// What rank the song reached
+	private String artist; 		// Who is the artist
+	private String title; 		// Song title
 
 	// Constructor
 	public Song(int year, int rank, String artist, String title) {
