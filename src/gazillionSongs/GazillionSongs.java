@@ -75,8 +75,9 @@ public class GazillionSongs {
 		// Get output file and dump data
 		outputFile = getOutputFile();
 		output = new PrintStream(outputFile);
-
 		sc.printSongs(output);
+
+		// Close our streams for completeness
 		output.close();
 		userInput.close();
 	}
@@ -84,16 +85,24 @@ public class GazillionSongs {
 	/**
 	 * getInputFile
 	 * 
-	 * Prompts the user for an input file, 
+	 * Prompts the user for an input file.
+	 * 
+	 * @return A File object representing the file to use.
 	 */
 	public static File getInputFile() {
-		boolean success = false; // Was our request successful?
-		File inputFile = null; // Need to set to null to satisfy the linter
+		// Was our request successful?
+		boolean success = false;
+		
+		// Need to set to null to satisfy the linter
+		File inputFile = null;
 
-		// userInput.reset();					// Reset the console input
+		// Prompt and keep asking until we get a good input file
 		System.out.print("What input file do you wish to use? ");
 		while (!success) {
-			String inputFileName = userInput.next();
+			// Keep getting lines until we get something that is real
+			String inputFileName = "";
+			while (inputFileName.equals(""))
+				inputFileName = userInput.nextLine();
 
 			// Check that the file actually exists
 			inputFile = new File(inputFileName);
@@ -108,14 +117,14 @@ public class GazillionSongs {
 	 * getOutputFile
 	 * 
 	 * Prompts the user for an output file.
+	 * 
+	 * @return A File object representing the output file to use
 	 */
 	public static File getOutputFile() {
 		boolean outputExists = true;
 		File outputFile = null;
 
-		// Reset input to clear the buffer
-		//userInput.reset();
-		System.out.print("What output file do you wish to user? ");
+		System.out.print("What output file do you wish to use? ");
 		while (outputExists) {
 			// Keep getting lines until we get something that is real
 			String outputFileName = "";
@@ -140,29 +149,38 @@ public class GazillionSongs {
 		return outputFile;
 	}
 
+	/**
+	 * processUserCommand - entry point for handling filter and sort commands
+	 */
 	public static void processUserCommand(SongCollection sc) {
 
 		// Setup some error handling
 		boolean success = false;
 		while (!success) {
-			System.out.println("Enter command: ");
+			// Keep getting commands until we get something that is real
+			System.out.print("Enter command: ");
 			String inputLine = "";
-			while (inputLine.equals("")) {
+			while (inputLine.equals(""))
 				inputLine = userInput.nextLine();
-			}
+
+			// Split each part
 			String[] command = inputLine.split(":");
 
 			// Filter command
+			// Second argument is the fielf, third is the data to use
 			if (command[0].toLowerCase().equals("filter"))
 				success = sc.filter(command[1], command[2]);
 
 			// Get things sorted
+			// Second argument is the field on which to sort
 			else if (command[0].toLowerCase().equals("insertionsort"))
 				success = sc.insertionSort(command[1]);
 			else if (command[0].toLowerCase().equals("selectionsort"))
 				success = sc.selectionSort(command[1]);
 			else if (command[0].toLowerCase().equals("mergesort"))
 				success = sc.mergeSort(command[1]);
+			else if (command[0].toLowerCase().equals("quicksort"))
+				success = sc.quickSort(command[1]);
 
 			// What you talkin' 'bout, Willis?'
 			if (!success)
